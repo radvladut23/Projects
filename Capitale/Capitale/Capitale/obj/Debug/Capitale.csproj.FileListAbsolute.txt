@@ -1,0 +1,10 @@
+E:\Info\Programming\Csharp Projects\ATESTATE\7-Capitale\Capitale\Capitale\obj\Debug\Capitale.csprojResolveAssemblyReference.cache
+E:\Info\Programming\Csharp Projects\ATESTATE\7-Capitale\Capitale\Capitale\obj\Debug\Educational_Impact.Form1.resources
+E:\Info\Programming\Csharp Projects\ATESTATE\7-Capitale\Capitale\Capitale\obj\Debug\Capitale.Properties.Resources.resources
+E:\Info\Programming\Csharp Projects\ATESTATE\7-Capitale\Capitale\Capitale\obj\Debug\Capitale.csproj.GenerateResource.Cache
+E:\Info\Programming\Csharp Projects\ATESTATE\7-Capitale\Capitale\Capitale\obj\Debug\Capitale.csproj.CoreCompileInputs.cache
+E:\Info\Programming\Csharp Projects\ATESTATE\7-Capitale\Capitale\Capitale\bin\Debug\Capitale.exe.config
+E:\Info\Programming\Csharp Projects\ATESTATE\7-Capitale\Capitale\Capitale\bin\Debug\Capitale.exe
+E:\Info\Programming\Csharp Projects\ATESTATE\7-Capitale\Capitale\Capitale\bin\Debug\Capitale.pdb
+E:\Info\Programming\Csharp Projects\ATESTATE\7-Capitale\Capitale\Capitale\obj\Debug\Capitale.exe
+E:\Info\Programming\Csharp Projects\ATESTATE\7-Capitale\Capitale\Capitale\obj\Debug\Capitale.pdb
