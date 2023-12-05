@@ -1,0 +1,73 @@
+#-----------------------------------------------------------
+# Vivado v2015.4 (64-bit)
+# SW Build 1412921 on Wed Nov 18 09:43:45 MST 2015
+# IP Build 1412160 on Tue Nov 17 13:47:24 MST 2015
+# Start of session at: Mon May 22 22:33:13 2023
+# Process ID: 8516
+# Current directory: C:/Users/Vladu/Desktop/AC/MIPSpipeline
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent20072 C:\Users\Vladu\Desktop\AC\MIPSpipeline\MIPSpipeline.xpr
+# Log file: C:/Users/Vladu/Desktop/AC/MIPSpipeline/vivado.log
+# Journal file: C:/Users/Vladu/Desktop/AC/MIPSpipeline\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/Vladu/Desktop/AC/MIPSpipeline/MIPSpipeline.xpr
+close [ open C:/Users/Vladu/Desktop/AC/MIPSpipeline/MIPSpipeline.srcs/sources_1/new/MPG.vhd w ]
+add_files C:/Users/Vladu/Desktop/AC/MIPSpipeline/MIPSpipeline.srcs/sources_1/new/MPG.vhd
+update_compile_order -fileset sources_1
+file mkdir C:/Users/Vladu/Desktop/AC/MIPSpipeline/MIPSpipeline.srcs/sim_1/new
+set_property SOURCE_SET sources_1 [get_filesets sim_1]
+close [ open C:/Users/Vladu/Desktop/AC/MIPSpipeline/MIPSpipeline.srcs/sim_1/new/IF_ID.vhd w ]
+add_files -fileset sim_1 C:/Users/Vladu/Desktop/AC/MIPSpipeline/MIPSpipeline.srcs/sim_1/new/IF_ID.vhd
+reset_run synth_1
+launch_runs impl_1
+wait_on_run impl_1
+reset_run synth_1
+launch_runs impl_1
+wait_on_run impl_1
+reset_run synth_1
+launch_runs impl_1
+wait_on_run impl_1
+reset_run synth_1
+launch_runs impl_1
+wait_on_run impl_1
+reset_run synth_1
+launch_runs impl_1
+wait_on_run impl_1
+reset_run impl_1
+launch_runs impl_1
+wait_on_run impl_1
+update_compile_order -fileset sim_1
+reset_run synth_1
+launch_runs impl_1
+wait_on_run impl_1
+update_compile_order -fileset sim_1
+reset_run synth_1
+launch_runs impl_1
+wait_on_run impl_1
+reset_run impl_1
+launch_runs impl_1
+wait_on_run impl_1
+reset_run synth_1
+launch_runs impl_1
+wait_on_run impl_1
+update_compile_order -fileset sim_1
+reset_run synth_1
+launch_runs impl_1
+wait_on_run impl_1
+launch_runs impl_1 -to_step write_bitstream
+wait_on_run impl_1
+reset_run impl_1
+launch_runs impl_1
+wait_on_run impl_1
+reset_run impl_1
+launch_runs impl_1
+wait_on_run impl_1
+reset_run impl_1
+launch_runs impl_1
+wait_on_run impl_1
+launch_runs impl_1 -to_step write_bitstream
+wait_on_run impl_1
+update_compile_order -fileset sim_1
+reset_run synth_1
+launch_runs impl_1
+wait_on_run impl_1
