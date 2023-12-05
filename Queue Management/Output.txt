@@ -1,0 +1,741 @@
+
+Time 0
+Server 1: closed
+Server 2: closed
+
+Task 1: arrival time=2, service time=16
+Task 2: arrival time=3, service time=44
+Task 3: arrival time=3, service time=7
+Task 4: arrival time=4, service time=17
+Task 5: arrival time=8, service time=43
+Task 6: arrival time=8, service time=6
+Task 7: arrival time=8, service time=13
+Task 8: arrival time=9, service time=40
+Task 9: arrival time=10, service time=11
+Task 10: arrival time=10, service time=36
+Task 11: arrival time=10, service time=35
+Task 12: arrival time=11, service time=14
+Task 13: arrival time=12, service time=10
+Task 14: arrival time=13, service time=27
+Task 15: arrival time=13, service time=9
+Task 16: arrival time=13, service time=38
+Task 17: arrival time=14, service time=46
+Task 18: arrival time=14, service time=10
+Task 19: arrival time=14, service time=40
+Task 20: arrival time=15, service time=25
+Task 21: arrival time=15, service time=41
+Task 22: arrival time=15, service time=25
+Task 23: arrival time=16, service time=10
+Task 24: arrival time=16, service time=19
+Task 25: arrival time=16, service time=33
+Task 26: arrival time=18, service time=29
+Task 27: arrival time=18, service time=18
+Task 28: arrival time=19, service time=31
+Task 29: arrival time=19, service time=28
+Task 30: arrival time=22, service time=17
+Task 31: arrival time=24, service time=44
+Task 32: arrival time=24, service time=6
+
+Time 1
+Server 1: closed
+Server 2: closed
+
+Task 1: arrival time=2, service time=16
+Task 2: arrival time=3, service time=44
+Task 3: arrival time=3, service time=7
+Task 4: arrival time=4, service time=17
+Task 5: arrival time=8, service time=43
+Task 6: arrival time=8, service time=6
+Task 7: arrival time=8, service time=13
+Task 8: arrival time=9, service time=40
+Task 9: arrival time=10, service time=11
+Task 10: arrival time=10, service time=36
+Task 11: arrival time=10, service time=35
+Task 12: arrival time=11, service time=14
+Task 13: arrival time=12, service time=10
+Task 14: arrival time=13, service time=27
+Task 15: arrival time=13, service time=9
+Task 16: arrival time=13, service time=38
+Task 17: arrival time=14, service time=46
+Task 18: arrival time=14, service time=10
+Task 19: arrival time=14, service time=40
+Task 20: arrival time=15, service time=25
+Task 21: arrival time=15, service time=41
+Task 22: arrival time=15, service time=25
+Task 23: arrival time=16, service time=10
+Task 24: arrival time=16, service time=19
+Task 25: arrival time=16, service time=33
+Task 26: arrival time=18, service time=29
+Task 27: arrival time=18, service time=18
+Task 28: arrival time=19, service time=31
+Task 29: arrival time=19, service time=28
+Task 30: arrival time=22, service time=17
+Task 31: arrival time=24, service time=44
+Task 32: arrival time=24, service time=6
+
+Time 2
+Server 1: (1,2,16) 
+Server 2: closed
+
+Task 2: arrival time=3, service time=44
+Task 3: arrival time=3, service time=7
+Task 4: arrival time=4, service time=17
+Task 5: arrival time=8, service time=43
+Task 6: arrival time=8, service time=6
+Task 7: arrival time=8, service time=13
+Task 8: arrival time=9, service time=40
+Task 9: arrival time=10, service time=11
+Task 10: arrival time=10, service time=36
+Task 11: arrival time=10, service time=35
+Task 12: arrival time=11, service time=14
+Task 13: arrival time=12, service time=10
+Task 14: arrival time=13, service time=27
+Task 15: arrival time=13, service time=9
+Task 16: arrival time=13, service time=38
+Task 17: arrival time=14, service time=46
+Task 18: arrival time=14, service time=10
+Task 19: arrival time=14, service time=40
+Task 20: arrival time=15, service time=25
+Task 21: arrival time=15, service time=41
+Task 22: arrival time=15, service time=25
+Task 23: arrival time=16, service time=10
+Task 24: arrival time=16, service time=19
+Task 25: arrival time=16, service time=33
+Task 26: arrival time=18, service time=29
+Task 27: arrival time=18, service time=18
+Task 28: arrival time=19, service time=31
+Task 29: arrival time=19, service time=28
+Task 30: arrival time=22, service time=17
+Task 31: arrival time=24, service time=44
+Task 32: arrival time=24, service time=6
+
+Time 3
+Server 1: (1,2,15) (3,3,7) 
+Server 2: (2,3,44) 
+
+Task 4: arrival time=4, service time=17
+Task 5: arrival time=8, service time=43
+Task 6: arrival time=8, service time=6
+Task 7: arrival time=8, service time=13
+Task 8: arrival time=9, service time=40
+Task 9: arrival time=10, service time=11
+Task 10: arrival time=10, service time=36
+Task 11: arrival time=10, service time=35
+Task 12: arrival time=11, service time=14
+Task 13: arrival time=12, service time=10
+Task 14: arrival time=13, service time=27
+Task 15: arrival time=13, service time=9
+Task 16: arrival time=13, service time=38
+Task 17: arrival time=14, service time=46
+Task 18: arrival time=14, service time=10
+Task 19: arrival time=14, service time=40
+Task 20: arrival time=15, service time=25
+Task 21: arrival time=15, service time=41
+Task 22: arrival time=15, service time=25
+Task 23: arrival time=16, service time=10
+Task 24: arrival time=16, service time=19
+Task 25: arrival time=16, service time=33
+Task 26: arrival time=18, service time=29
+Task 27: arrival time=18, service time=18
+Task 28: arrival time=19, service time=31
+Task 29: arrival time=19, service time=28
+Task 30: arrival time=22, service time=17
+Task 31: arrival time=24, service time=44
+Task 32: arrival time=24, service time=6
+
+Time 4
+Server 1: (1,2,14) (3,3,7) (4,4,17) 
+Server 2: (2,3,43) 
+
+Task 5: arrival time=8, service time=43
+Task 6: arrival time=8, service time=6
+Task 7: arrival time=8, service time=13
+Task 8: arrival time=9, service time=40
+Task 9: arrival time=10, service time=11
+Task 10: arrival time=10, service time=36
+Task 11: arrival time=10, service time=35
+Task 12: arrival time=11, service time=14
+Task 13: arrival time=12, service time=10
+Task 14: arrival time=13, service time=27
+Task 15: arrival time=13, service time=9
+Task 16: arrival time=13, service time=38
+Task 17: arrival time=14, service time=46
+Task 18: arrival time=14, service time=10
+Task 19: arrival time=14, service time=40
+Task 20: arrival time=15, service time=25
+Task 21: arrival time=15, service time=41
+Task 22: arrival time=15, service time=25
+Task 23: arrival time=16, service time=10
+Task 24: arrival time=16, service time=19
+Task 25: arrival time=16, service time=33
+Task 26: arrival time=18, service time=29
+Task 27: arrival time=18, service time=18
+Task 28: arrival time=19, service time=31
+Task 29: arrival time=19, service time=28
+Task 30: arrival time=22, service time=17
+Task 31: arrival time=24, service time=44
+Task 32: arrival time=24, service time=6
+
+Time 5
+Server 1: (1,2,13) (3,3,7) (4,4,17) 
+Server 2: (2,3,42) 
+
+Task 5: arrival time=8, service time=43
+Task 6: arrival time=8, service time=6
+Task 7: arrival time=8, service time=13
+Task 8: arrival time=9, service time=40
+Task 9: arrival time=10, service time=11
+Task 10: arrival time=10, service time=36
+Task 11: arrival time=10, service time=35
+Task 12: arrival time=11, service time=14
+Task 13: arrival time=12, service time=10
+Task 14: arrival time=13, service time=27
+Task 15: arrival time=13, service time=9
+Task 16: arrival time=13, service time=38
+Task 17: arrival time=14, service time=46
+Task 18: arrival time=14, service time=10
+Task 19: arrival time=14, service time=40
+Task 20: arrival time=15, service time=25
+Task 21: arrival time=15, service time=41
+Task 22: arrival time=15, service time=25
+Task 23: arrival time=16, service time=10
+Task 24: arrival time=16, service time=19
+Task 25: arrival time=16, service time=33
+Task 26: arrival time=18, service time=29
+Task 27: arrival time=18, service time=18
+Task 28: arrival time=19, service time=31
+Task 29: arrival time=19, service time=28
+Task 30: arrival time=22, service time=17
+Task 31: arrival time=24, service time=44
+Task 32: arrival time=24, service time=6
+
+Time 6
+Server 1: (1,2,12) (3,3,7) (4,4,17) 
+Server 2: (2,3,41) 
+
+Task 5: arrival time=8, service time=43
+Task 6: arrival time=8, service time=6
+Task 7: arrival time=8, service time=13
+Task 8: arrival time=9, service time=40
+Task 9: arrival time=10, service time=11
+Task 10: arrival time=10, service time=36
+Task 11: arrival time=10, service time=35
+Task 12: arrival time=11, service time=14
+Task 13: arrival time=12, service time=10
+Task 14: arrival time=13, service time=27
+Task 15: arrival time=13, service time=9
+Task 16: arrival time=13, service time=38
+Task 17: arrival time=14, service time=46
+Task 18: arrival time=14, service time=10
+Task 19: arrival time=14, service time=40
+Task 20: arrival time=15, service time=25
+Task 21: arrival time=15, service time=41
+Task 22: arrival time=15, service time=25
+Task 23: arrival time=16, service time=10
+Task 24: arrival time=16, service time=19
+Task 25: arrival time=16, service time=33
+Task 26: arrival time=18, service time=29
+Task 27: arrival time=18, service time=18
+Task 28: arrival time=19, service time=31
+Task 29: arrival time=19, service time=28
+Task 30: arrival time=22, service time=17
+Task 31: arrival time=24, service time=44
+Task 32: arrival time=24, service time=6
+
+Time 7
+Server 1: (1,2,11) (3,3,7) (4,4,17) 
+Server 2: (2,3,40) 
+
+Task 5: arrival time=8, service time=43
+Task 6: arrival time=8, service time=6
+Task 7: arrival time=8, service time=13
+Task 8: arrival time=9, service time=40
+Task 9: arrival time=10, service time=11
+Task 10: arrival time=10, service time=36
+Task 11: arrival time=10, service time=35
+Task 12: arrival time=11, service time=14
+Task 13: arrival time=12, service time=10
+Task 14: arrival time=13, service time=27
+Task 15: arrival time=13, service time=9
+Task 16: arrival time=13, service time=38
+Task 17: arrival time=14, service time=46
+Task 18: arrival time=14, service time=10
+Task 19: arrival time=14, service time=40
+Task 20: arrival time=15, service time=25
+Task 21: arrival time=15, service time=41
+Task 22: arrival time=15, service time=25
+Task 23: arrival time=16, service time=10
+Task 24: arrival time=16, service time=19
+Task 25: arrival time=16, service time=33
+Task 26: arrival time=18, service time=29
+Task 27: arrival time=18, service time=18
+Task 28: arrival time=19, service time=31
+Task 29: arrival time=19, service time=28
+Task 30: arrival time=22, service time=17
+Task 31: arrival time=24, service time=44
+Task 32: arrival time=24, service time=6
+
+Time 8
+Server 1: (1,2,10) (3,3,7) (4,4,17) (5,8,43) 
+Server 2: (2,3,39) (6,8,6) (7,8,13) 
+
+Task 8: arrival time=9, service time=40
+Task 9: arrival time=10, service time=11
+Task 10: arrival time=10, service time=36
+Task 11: arrival time=10, service time=35
+Task 12: arrival time=11, service time=14
+Task 13: arrival time=12, service time=10
+Task 14: arrival time=13, service time=27
+Task 15: arrival time=13, service time=9
+Task 16: arrival time=13, service time=38
+Task 17: arrival time=14, service time=46
+Task 18: arrival time=14, service time=10
+Task 19: arrival time=14, service time=40
+Task 20: arrival time=15, service time=25
+Task 21: arrival time=15, service time=41
+Task 22: arrival time=15, service time=25
+Task 23: arrival time=16, service time=10
+Task 24: arrival time=16, service time=19
+Task 25: arrival time=16, service time=33
+Task 26: arrival time=18, service time=29
+Task 27: arrival time=18, service time=18
+Task 28: arrival time=19, service time=31
+Task 29: arrival time=19, service time=28
+Task 30: arrival time=22, service time=17
+Task 31: arrival time=24, service time=44
+Task 32: arrival time=24, service time=6
+
+Time 9
+Server 1: (1,2,9) (3,3,7) (4,4,17) (5,8,43) 
+Server 2: (2,3,38) (6,8,6) (7,8,13) (8,9,40) 
+
+Task 9: arrival time=10, service time=11
+Task 10: arrival time=10, service time=36
+Task 11: arrival time=10, service time=35
+Task 12: arrival time=11, service time=14
+Task 13: arrival time=12, service time=10
+Task 14: arrival time=13, service time=27
+Task 15: arrival time=13, service time=9
+Task 16: arrival time=13, service time=38
+Task 17: arrival time=14, service time=46
+Task 18: arrival time=14, service time=10
+Task 19: arrival time=14, service time=40
+Task 20: arrival time=15, service time=25
+Task 21: arrival time=15, service time=41
+Task 22: arrival time=15, service time=25
+Task 23: arrival time=16, service time=10
+Task 24: arrival time=16, service time=19
+Task 25: arrival time=16, service time=33
+Task 26: arrival time=18, service time=29
+Task 27: arrival time=18, service time=18
+Task 28: arrival time=19, service time=31
+Task 29: arrival time=19, service time=28
+Task 30: arrival time=22, service time=17
+Task 31: arrival time=24, service time=44
+Task 32: arrival time=24, service time=6
+
+Time 10
+Server 1: (1,2,8) (3,3,7) (4,4,17) (5,8,43) (9,10,11) (10,10,36) 
+Server 2: (2,3,37) (6,8,6) (7,8,13) (8,9,40) (11,10,35) 
+
+Task 12: arrival time=11, service time=14
+Task 13: arrival time=12, service time=10
+Task 14: arrival time=13, service time=27
+Task 15: arrival time=13, service time=9
+Task 16: arrival time=13, service time=38
+Task 17: arrival time=14, service time=46
+Task 18: arrival time=14, service time=10
+Task 19: arrival time=14, service time=40
+Task 20: arrival time=15, service time=25
+Task 21: arrival time=15, service time=41
+Task 22: arrival time=15, service time=25
+Task 23: arrival time=16, service time=10
+Task 24: arrival time=16, service time=19
+Task 25: arrival time=16, service time=33
+Task 26: arrival time=18, service time=29
+Task 27: arrival time=18, service time=18
+Task 28: arrival time=19, service time=31
+Task 29: arrival time=19, service time=28
+Task 30: arrival time=22, service time=17
+Task 31: arrival time=24, service time=44
+Task 32: arrival time=24, service time=6
+
+Time 11
+Server 1: (1,2,7) (3,3,7) (4,4,17) (5,8,43) (9,10,11) (10,10,36) (12,11,14) 
+Server 2: (2,3,36) (6,8,6) (7,8,13) (8,9,40) (11,10,35) 
+
+Task 13: arrival time=12, service time=10
+Task 14: arrival time=13, service time=27
+Task 15: arrival time=13, service time=9
+Task 16: arrival time=13, service time=38
+Task 17: arrival time=14, service time=46
+Task 18: arrival time=14, service time=10
+Task 19: arrival time=14, service time=40
+Task 20: arrival time=15, service time=25
+Task 21: arrival time=15, service time=41
+Task 22: arrival time=15, service time=25
+Task 23: arrival time=16, service time=10
+Task 24: arrival time=16, service time=19
+Task 25: arrival time=16, service time=33
+Task 26: arrival time=18, service time=29
+Task 27: arrival time=18, service time=18
+Task 28: arrival time=19, service time=31
+Task 29: arrival time=19, service time=28
+Task 30: arrival time=22, service time=17
+Task 31: arrival time=24, service time=44
+Task 32: arrival time=24, service time=6
+
+Time 12
+Server 1: (1,2,6) (3,3,7) (4,4,17) (5,8,43) (9,10,11) (10,10,36) (12,11,14) 
+Server 2: (2,3,35) (6,8,6) (7,8,13) (8,9,40) (11,10,35) (13,12,10) 
+
+Task 14: arrival time=13, service time=27
+Task 15: arrival time=13, service time=9
+Task 16: arrival time=13, service time=38
+Task 17: arrival time=14, service time=46
+Task 18: arrival time=14, service time=10
+Task 19: arrival time=14, service time=40
+Task 20: arrival time=15, service time=25
+Task 21: arrival time=15, service time=41
+Task 22: arrival time=15, service time=25
+Task 23: arrival time=16, service time=10
+Task 24: arrival time=16, service time=19
+Task 25: arrival time=16, service time=33
+Task 26: arrival time=18, service time=29
+Task 27: arrival time=18, service time=18
+Task 28: arrival time=19, service time=31
+Task 29: arrival time=19, service time=28
+Task 30: arrival time=22, service time=17
+Task 31: arrival time=24, service time=44
+Task 32: arrival time=24, service time=6
+
+Time 13
+Server 1: (1,2,5) (3,3,7) (4,4,17) (5,8,43) (9,10,11) (10,10,36) (12,11,14) (14,13,27) 
+Server 2: (2,3,34) (6,8,6) (7,8,13) (8,9,40) (11,10,35) (13,12,10) (15,13,9) (16,13,38) 
+
+Task 17: arrival time=14, service time=46
+Task 18: arrival time=14, service time=10
+Task 19: arrival time=14, service time=40
+Task 20: arrival time=15, service time=25
+Task 21: arrival time=15, service time=41
+Task 22: arrival time=15, service time=25
+Task 23: arrival time=16, service time=10
+Task 24: arrival time=16, service time=19
+Task 25: arrival time=16, service time=33
+Task 26: arrival time=18, service time=29
+Task 27: arrival time=18, service time=18
+Task 28: arrival time=19, service time=31
+Task 29: arrival time=19, service time=28
+Task 30: arrival time=22, service time=17
+Task 31: arrival time=24, service time=44
+Task 32: arrival time=24, service time=6
+
+Time 14
+Server 1: (1,2,4) (3,3,7) (4,4,17) (5,8,43) (9,10,11) (10,10,36) (12,11,14) (14,13,27) (17,14,46) 
+Server 2: (2,3,33) (6,8,6) (7,8,13) (8,9,40) (11,10,35) (13,12,10) (15,13,9) (16,13,38) (18,14,10) (19,14,40) 
+
+Task 20: arrival time=15, service time=25
+Task 21: arrival time=15, service time=41
+Task 22: arrival time=15, service time=25
+Task 23: arrival time=16, service time=10
+Task 24: arrival time=16, service time=19
+Task 25: arrival time=16, service time=33
+Task 26: arrival time=18, service time=29
+Task 27: arrival time=18, service time=18
+Task 28: arrival time=19, service time=31
+Task 29: arrival time=19, service time=28
+Task 30: arrival time=22, service time=17
+Task 31: arrival time=24, service time=44
+Task 32: arrival time=24, service time=6
+
+Time 15
+Server 1: (1,2,3) (3,3,7) (4,4,17) (5,8,43) (9,10,11) (10,10,36) (12,11,14) (14,13,27) (17,14,46) (20,15,25) (21,15,41) 
+Server 2: (2,3,32) (6,8,6) (7,8,13) (8,9,40) (11,10,35) (13,12,10) (15,13,9) (16,13,38) (18,14,10) (19,14,40) (22,15,25) 
+
+Task 23: arrival time=16, service time=10
+Task 24: arrival time=16, service time=19
+Task 25: arrival time=16, service time=33
+Task 26: arrival time=18, service time=29
+Task 27: arrival time=18, service time=18
+Task 28: arrival time=19, service time=31
+Task 29: arrival time=19, service time=28
+Task 30: arrival time=22, service time=17
+Task 31: arrival time=24, service time=44
+Task 32: arrival time=24, service time=6
+
+Time 16
+Server 1: (1,2,2) (3,3,7) (4,4,17) (5,8,43) (9,10,11) (10,10,36) (12,11,14) (14,13,27) (17,14,46) (20,15,25) (21,15,41) (25,16,33) 
+Server 2: (2,3,31) (6,8,6) (7,8,13) (8,9,40) (11,10,35) (13,12,10) (15,13,9) (16,13,38) (18,14,10) (19,14,40) (22,15,25) (23,16,10) (24,16,19) 
+
+Task 26: arrival time=18, service time=29
+Task 27: arrival time=18, service time=18
+Task 28: arrival time=19, service time=31
+Task 29: arrival time=19, service time=28
+Task 30: arrival time=22, service time=17
+Task 31: arrival time=24, service time=44
+Task 32: arrival time=24, service time=6
+
+Time 17
+Server 1: (1,2,1) (3,3,7) (4,4,17) (5,8,43) (9,10,11) (10,10,36) (12,11,14) (14,13,27) (17,14,46) (20,15,25) (21,15,41) (25,16,33) 
+Server 2: (2,3,30) (6,8,6) (7,8,13) (8,9,40) (11,10,35) (13,12,10) (15,13,9) (16,13,38) (18,14,10) (19,14,40) (22,15,25) (23,16,10) (24,16,19) 
+
+Task 26: arrival time=18, service time=29
+Task 27: arrival time=18, service time=18
+Task 28: arrival time=19, service time=31
+Task 29: arrival time=19, service time=28
+Task 30: arrival time=22, service time=17
+Task 31: arrival time=24, service time=44
+Task 32: arrival time=24, service time=6
+
+Time 18
+Server 1: (3,3,7) (4,4,17) (5,8,43) (9,10,11) (10,10,36) (12,11,14) (14,13,27) (17,14,46) (20,15,25) (21,15,41) (25,16,33) (27,18,18) 
+Server 2: (2,3,29) (6,8,6) (7,8,13) (8,9,40) (11,10,35) (13,12,10) (15,13,9) (16,13,38) (18,14,10) (19,14,40) (22,15,25) (23,16,10) (24,16,19) (26,18,29) 
+
+Task 28: arrival time=19, service time=31
+Task 29: arrival time=19, service time=28
+Task 30: arrival time=22, service time=17
+Task 31: arrival time=24, service time=44
+Task 32: arrival time=24, service time=6
+
+Time 19
+Server 1: (3,3,6) (4,4,17) (5,8,43) (9,10,11) (10,10,36) (12,11,14) (14,13,27) (17,14,46) (20,15,25) (21,15,41) (25,16,33) (27,18,18) (29,19,28) 
+Server 2: (2,3,28) (6,8,6) (7,8,13) (8,9,40) (11,10,35) (13,12,10) (15,13,9) (16,13,38) (18,14,10) (19,14,40) (22,15,25) (23,16,10) (24,16,19) (26,18,29) (28,19,31) 
+
+Task 30: arrival time=22, service time=17
+Task 31: arrival time=24, service time=44
+Task 32: arrival time=24, service time=6
+
+Time 20
+Server 1: (3,3,5) (4,4,17) (5,8,43) (9,10,11) (10,10,36) (12,11,14) (14,13,27) (17,14,46) (20,15,25) (21,15,41) (25,16,33) (27,18,18) (29,19,28) 
+Server 2: (2,3,27) (6,8,6) (7,8,13) (8,9,40) (11,10,35) (13,12,10) (15,13,9) (16,13,38) (18,14,10) (19,14,40) (22,15,25) (23,16,10) (24,16,19) (26,18,29) (28,19,31) 
+
+Task 30: arrival time=22, service time=17
+Task 31: arrival time=24, service time=44
+Task 32: arrival time=24, service time=6
+
+Time 21
+Server 1: (3,3,4) (4,4,17) (5,8,43) (9,10,11) (10,10,36) (12,11,14) (14,13,27) (17,14,46) (20,15,25) (21,15,41) (25,16,33) (27,18,18) (29,19,28) 
+Server 2: (2,3,26) (6,8,6) (7,8,13) (8,9,40) (11,10,35) (13,12,10) (15,13,9) (16,13,38) (18,14,10) (19,14,40) (22,15,25) (23,16,10) (24,16,19) (26,18,29) (28,19,31) 
+
+Task 30: arrival time=22, service time=17
+Task 31: arrival time=24, service time=44
+Task 32: arrival time=24, service time=6
+
+Time 22
+Server 1: (3,3,3) (4,4,17) (5,8,43) (9,10,11) (10,10,36) (12,11,14) (14,13,27) (17,14,46) (20,15,25) (21,15,41) (25,16,33) (27,18,18) (29,19,28) 
+Server 2: (2,3,25) (6,8,6) (7,8,13) (8,9,40) (11,10,35) (13,12,10) (15,13,9) (16,13,38) (18,14,10) (19,14,40) (22,15,25) (23,16,10) (24,16,19) (26,18,29) (28,19,31) (30,22,17) 
+
+Task 31: arrival time=24, service time=44
+Task 32: arrival time=24, service time=6
+
+Time 23
+Server 1: (3,3,2) (4,4,17) (5,8,43) (9,10,11) (10,10,36) (12,11,14) (14,13,27) (17,14,46) (20,15,25) (21,15,41) (25,16,33) (27,18,18) (29,19,28) 
+Server 2: (2,3,24) (6,8,6) (7,8,13) (8,9,40) (11,10,35) (13,12,10) (15,13,9) (16,13,38) (18,14,10) (19,14,40) (22,15,25) (23,16,10) (24,16,19) (26,18,29) (28,19,31) (30,22,17) 
+
+Task 31: arrival time=24, service time=44
+Task 32: arrival time=24, service time=6
+
+Time 24
+Server 1: (3,3,1) (4,4,17) (5,8,43) (9,10,11) (10,10,36) (12,11,14) (14,13,27) (17,14,46) (20,15,25) (21,15,41) (25,16,33) (27,18,18) (29,19,28) (31,24,44) 
+Server 2: (2,3,23) (6,8,6) (7,8,13) (8,9,40) (11,10,35) (13,12,10) (15,13,9) (16,13,38) (18,14,10) (19,14,40) (22,15,25) (23,16,10) (24,16,19) (26,18,29) (28,19,31) (30,22,17) (32,24,6) 
+
+
+Time 25
+Server 1: (4,4,17) (5,8,43) (9,10,11) (10,10,36) (12,11,14) (14,13,27) (17,14,46) (20,15,25) (21,15,41) (25,16,33) (27,18,18) (29,19,28) (31,24,44) 
+Server 2: (2,3,22) (6,8,6) (7,8,13) (8,9,40) (11,10,35) (13,12,10) (15,13,9) (16,13,38) (18,14,10) (19,14,40) (22,15,25) (23,16,10) (24,16,19) (26,18,29) (28,19,31) (30,22,17) (32,24,6) 
+
+
+Time 26
+Server 1: (4,4,16) (5,8,43) (9,10,11) (10,10,36) (12,11,14) (14,13,27) (17,14,46) (20,15,25) (21,15,41) (25,16,33) (27,18,18) (29,19,28) (31,24,44) 
+Server 2: (2,3,21) (6,8,6) (7,8,13) (8,9,40) (11,10,35) (13,12,10) (15,13,9) (16,13,38) (18,14,10) (19,14,40) (22,15,25) (23,16,10) (24,16,19) (26,18,29) (28,19,31) (30,22,17) (32,24,6) 
+
+
+Time 27
+Server 1: (4,4,15) (5,8,43) (9,10,11) (10,10,36) (12,11,14) (14,13,27) (17,14,46) (20,15,25) (21,15,41) (25,16,33) (27,18,18) (29,19,28) (31,24,44) 
+Server 2: (2,3,20) (6,8,6) (7,8,13) (8,9,40) (11,10,35) (13,12,10) (15,13,9) (16,13,38) (18,14,10) (19,14,40) (22,15,25) (23,16,10) (24,16,19) (26,18,29) (28,19,31) (30,22,17) (32,24,6) 
+
+
+Time 28
+Server 1: (4,4,14) (5,8,43) (9,10,11) (10,10,36) (12,11,14) (14,13,27) (17,14,46) (20,15,25) (21,15,41) (25,16,33) (27,18,18) (29,19,28) (31,24,44) 
+Server 2: (2,3,19) (6,8,6) (7,8,13) (8,9,40) (11,10,35) (13,12,10) (15,13,9) (16,13,38) (18,14,10) (19,14,40) (22,15,25) (23,16,10) (24,16,19) (26,18,29) (28,19,31) (30,22,17) (32,24,6) 
+
+
+Time 29
+Server 1: (4,4,13) (5,8,43) (9,10,11) (10,10,36) (12,11,14) (14,13,27) (17,14,46) (20,15,25) (21,15,41) (25,16,33) (27,18,18) (29,19,28) (31,24,44) 
+Server 2: (2,3,18) (6,8,6) (7,8,13) (8,9,40) (11,10,35) (13,12,10) (15,13,9) (16,13,38) (18,14,10) (19,14,40) (22,15,25) (23,16,10) (24,16,19) (26,18,29) (28,19,31) (30,22,17) (32,24,6) 
+
+
+Time 30
+Server 1: (4,4,12) (5,8,43) (9,10,11) (10,10,36) (12,11,14) (14,13,27) (17,14,46) (20,15,25) (21,15,41) (25,16,33) (27,18,18) (29,19,28) (31,24,44) 
+Server 2: (2,3,17) (6,8,6) (7,8,13) (8,9,40) (11,10,35) (13,12,10) (15,13,9) (16,13,38) (18,14,10) (19,14,40) (22,15,25) (23,16,10) (24,16,19) (26,18,29) (28,19,31) (30,22,17) (32,24,6) 
+
+
+Time 31
+Server 1: (4,4,11) (5,8,43) (9,10,11) (10,10,36) (12,11,14) (14,13,27) (17,14,46) (20,15,25) (21,15,41) (25,16,33) (27,18,18) (29,19,28) (31,24,44) 
+Server 2: (2,3,16) (6,8,6) (7,8,13) (8,9,40) (11,10,35) (13,12,10) (15,13,9) (16,13,38) (18,14,10) (19,14,40) (22,15,25) (23,16,10) (24,16,19) (26,18,29) (28,19,31) (30,22,17) (32,24,6) 
+
+
+Time 32
+Server 1: (4,4,10) (5,8,43) (9,10,11) (10,10,36) (12,11,14) (14,13,27) (17,14,46) (20,15,25) (21,15,41) (25,16,33) (27,18,18) (29,19,28) (31,24,44) 
+Server 2: (2,3,15) (6,8,6) (7,8,13) (8,9,40) (11,10,35) (13,12,10) (15,13,9) (16,13,38) (18,14,10) (19,14,40) (22,15,25) (23,16,10) (24,16,19) (26,18,29) (28,19,31) (30,22,17) (32,24,6) 
+
+
+Time 33
+Server 1: (4,4,9) (5,8,43) (9,10,11) (10,10,36) (12,11,14) (14,13,27) (17,14,46) (20,15,25) (21,15,41) (25,16,33) (27,18,18) (29,19,28) (31,24,44) 
+Server 2: (2,3,14) (6,8,6) (7,8,13) (8,9,40) (11,10,35) (13,12,10) (15,13,9) (16,13,38) (18,14,10) (19,14,40) (22,15,25) (23,16,10) (24,16,19) (26,18,29) (28,19,31) (30,22,17) (32,24,6) 
+
+
+Time 34
+Server 1: (4,4,8) (5,8,43) (9,10,11) (10,10,36) (12,11,14) (14,13,27) (17,14,46) (20,15,25) (21,15,41) (25,16,33) (27,18,18) (29,19,28) (31,24,44) 
+Server 2: (2,3,13) (6,8,6) (7,8,13) (8,9,40) (11,10,35) (13,12,10) (15,13,9) (16,13,38) (18,14,10) (19,14,40) (22,15,25) (23,16,10) (24,16,19) (26,18,29) (28,19,31) (30,22,17) (32,24,6) 
+
+
+Time 35
+Server 1: (4,4,7) (5,8,43) (9,10,11) (10,10,36) (12,11,14) (14,13,27) (17,14,46) (20,15,25) (21,15,41) (25,16,33) (27,18,18) (29,19,28) (31,24,44) 
+Server 2: (2,3,12) (6,8,6) (7,8,13) (8,9,40) (11,10,35) (13,12,10) (15,13,9) (16,13,38) (18,14,10) (19,14,40) (22,15,25) (23,16,10) (24,16,19) (26,18,29) (28,19,31) (30,22,17) (32,24,6) 
+
+
+Time 36
+Server 1: (4,4,6) (5,8,43) (9,10,11) (10,10,36) (12,11,14) (14,13,27) (17,14,46) (20,15,25) (21,15,41) (25,16,33) (27,18,18) (29,19,28) (31,24,44) 
+Server 2: (2,3,11) (6,8,6) (7,8,13) (8,9,40) (11,10,35) (13,12,10) (15,13,9) (16,13,38) (18,14,10) (19,14,40) (22,15,25) (23,16,10) (24,16,19) (26,18,29) (28,19,31) (30,22,17) (32,24,6) 
+
+
+Time 37
+Server 1: (4,4,5) (5,8,43) (9,10,11) (10,10,36) (12,11,14) (14,13,27) (17,14,46) (20,15,25) (21,15,41) (25,16,33) (27,18,18) (29,19,28) (31,24,44) 
+Server 2: (2,3,10) (6,8,6) (7,8,13) (8,9,40) (11,10,35) (13,12,10) (15,13,9) (16,13,38) (18,14,10) (19,14,40) (22,15,25) (23,16,10) (24,16,19) (26,18,29) (28,19,31) (30,22,17) (32,24,6) 
+
+
+Time 38
+Server 1: (4,4,4) (5,8,43) (9,10,11) (10,10,36) (12,11,14) (14,13,27) (17,14,46) (20,15,25) (21,15,41) (25,16,33) (27,18,18) (29,19,28) (31,24,44) 
+Server 2: (2,3,9) (6,8,6) (7,8,13) (8,9,40) (11,10,35) (13,12,10) (15,13,9) (16,13,38) (18,14,10) (19,14,40) (22,15,25) (23,16,10) (24,16,19) (26,18,29) (28,19,31) (30,22,17) (32,24,6) 
+
+
+Time 39
+Server 1: (4,4,3) (5,8,43) (9,10,11) (10,10,36) (12,11,14) (14,13,27) (17,14,46) (20,15,25) (21,15,41) (25,16,33) (27,18,18) (29,19,28) (31,24,44) 
+Server 2: (2,3,8) (6,8,6) (7,8,13) (8,9,40) (11,10,35) (13,12,10) (15,13,9) (16,13,38) (18,14,10) (19,14,40) (22,15,25) (23,16,10) (24,16,19) (26,18,29) (28,19,31) (30,22,17) (32,24,6) 
+
+
+Time 40
+Server 1: (4,4,2) (5,8,43) (9,10,11) (10,10,36) (12,11,14) (14,13,27) (17,14,46) (20,15,25) (21,15,41) (25,16,33) (27,18,18) (29,19,28) (31,24,44) 
+Server 2: (2,3,7) (6,8,6) (7,8,13) (8,9,40) (11,10,35) (13,12,10) (15,13,9) (16,13,38) (18,14,10) (19,14,40) (22,15,25) (23,16,10) (24,16,19) (26,18,29) (28,19,31) (30,22,17) (32,24,6) 
+
+
+Time 41
+Server 1: (4,4,1) (5,8,43) (9,10,11) (10,10,36) (12,11,14) (14,13,27) (17,14,46) (20,15,25) (21,15,41) (25,16,33) (27,18,18) (29,19,28) (31,24,44) 
+Server 2: (2,3,6) (6,8,6) (7,8,13) (8,9,40) (11,10,35) (13,12,10) (15,13,9) (16,13,38) (18,14,10) (19,14,40) (22,15,25) (23,16,10) (24,16,19) (26,18,29) (28,19,31) (30,22,17) (32,24,6) 
+
+
+Time 42
+Server 1: (5,8,43) (9,10,11) (10,10,36) (12,11,14) (14,13,27) (17,14,46) (20,15,25) (21,15,41) (25,16,33) (27,18,18) (29,19,28) (31,24,44) 
+Server 2: (2,3,5) (6,8,6) (7,8,13) (8,9,40) (11,10,35) (13,12,10) (15,13,9) (16,13,38) (18,14,10) (19,14,40) (22,15,25) (23,16,10) (24,16,19) (26,18,29) (28,19,31) (30,22,17) (32,24,6) 
+
+
+Time 43
+Server 1: (5,8,42) (9,10,11) (10,10,36) (12,11,14) (14,13,27) (17,14,46) (20,15,25) (21,15,41) (25,16,33) (27,18,18) (29,19,28) (31,24,44) 
+Server 2: (2,3,4) (6,8,6) (7,8,13) (8,9,40) (11,10,35) (13,12,10) (15,13,9) (16,13,38) (18,14,10) (19,14,40) (22,15,25) (23,16,10) (24,16,19) (26,18,29) (28,19,31) (30,22,17) (32,24,6) 
+
+
+Time 44
+Server 1: (5,8,41) (9,10,11) (10,10,36) (12,11,14) (14,13,27) (17,14,46) (20,15,25) (21,15,41) (25,16,33) (27,18,18) (29,19,28) (31,24,44) 
+Server 2: (2,3,3) (6,8,6) (7,8,13) (8,9,40) (11,10,35) (13,12,10) (15,13,9) (16,13,38) (18,14,10) (19,14,40) (22,15,25) (23,16,10) (24,16,19) (26,18,29) (28,19,31) (30,22,17) (32,24,6) 
+
+
+Time 45
+Server 1: (5,8,40) (9,10,11) (10,10,36) (12,11,14) (14,13,27) (17,14,46) (20,15,25) (21,15,41) (25,16,33) (27,18,18) (29,19,28) (31,24,44) 
+Server 2: (2,3,2) (6,8,6) (7,8,13) (8,9,40) (11,10,35) (13,12,10) (15,13,9) (16,13,38) (18,14,10) (19,14,40) (22,15,25) (23,16,10) (24,16,19) (26,18,29) (28,19,31) (30,22,17) (32,24,6) 
+
+
+Time 46
+Server 1: (5,8,39) (9,10,11) (10,10,36) (12,11,14) (14,13,27) (17,14,46) (20,15,25) (21,15,41) (25,16,33) (27,18,18) (29,19,28) (31,24,44) 
+Server 2: (2,3,1) (6,8,6) (7,8,13) (8,9,40) (11,10,35) (13,12,10) (15,13,9) (16,13,38) (18,14,10) (19,14,40) (22,15,25) (23,16,10) (24,16,19) (26,18,29) (28,19,31) (30,22,17) (32,24,6) 
+
+
+Time 47
+Server 1: (5,8,38) (9,10,11) (10,10,36) (12,11,14) (14,13,27) (17,14,46) (20,15,25) (21,15,41) (25,16,33) (27,18,18) (29,19,28) (31,24,44) 
+Server 2: (6,8,6) (7,8,13) (8,9,40) (11,10,35) (13,12,10) (15,13,9) (16,13,38) (18,14,10) (19,14,40) (22,15,25) (23,16,10) (24,16,19) (26,18,29) (28,19,31) (30,22,17) (32,24,6) 
+
+
+Time 48
+Server 1: (5,8,37) (9,10,11) (10,10,36) (12,11,14) (14,13,27) (17,14,46) (20,15,25) (21,15,41) (25,16,33) (27,18,18) (29,19,28) (31,24,44) 
+Server 2: (6,8,5) (7,8,13) (8,9,40) (11,10,35) (13,12,10) (15,13,9) (16,13,38) (18,14,10) (19,14,40) (22,15,25) (23,16,10) (24,16,19) (26,18,29) (28,19,31) (30,22,17) (32,24,6) 
+
+
+Time 49
+Server 1: (5,8,36) (9,10,11) (10,10,36) (12,11,14) (14,13,27) (17,14,46) (20,15,25) (21,15,41) (25,16,33) (27,18,18) (29,19,28) (31,24,44) 
+Server 2: (6,8,4) (7,8,13) (8,9,40) (11,10,35) (13,12,10) (15,13,9) (16,13,38) (18,14,10) (19,14,40) (22,15,25) (23,16,10) (24,16,19) (26,18,29) (28,19,31) (30,22,17) (32,24,6) 
+
+
+Time 50
+Server 1: (5,8,35) (9,10,11) (10,10,36) (12,11,14) (14,13,27) (17,14,46) (20,15,25) (21,15,41) (25,16,33) (27,18,18) (29,19,28) (31,24,44) 
+Server 2: (6,8,3) (7,8,13) (8,9,40) (11,10,35) (13,12,10) (15,13,9) (16,13,38) (18,14,10) (19,14,40) (22,15,25) (23,16,10) (24,16,19) (26,18,29) (28,19,31) (30,22,17) (32,24,6) 
+
+
+Time 51
+Server 1: (5,8,34) (9,10,11) (10,10,36) (12,11,14) (14,13,27) (17,14,46) (20,15,25) (21,15,41) (25,16,33) (27,18,18) (29,19,28) (31,24,44) 
+Server 2: (6,8,2) (7,8,13) (8,9,40) (11,10,35) (13,12,10) (15,13,9) (16,13,38) (18,14,10) (19,14,40) (22,15,25) (23,16,10) (24,16,19) (26,18,29) (28,19,31) (30,22,17) (32,24,6) 
+
+
+Time 52
+Server 1: (5,8,33) (9,10,11) (10,10,36) (12,11,14) (14,13,27) (17,14,46) (20,15,25) (21,15,41) (25,16,33) (27,18,18) (29,19,28) (31,24,44) 
+Server 2: (6,8,1) (7,8,13) (8,9,40) (11,10,35) (13,12,10) (15,13,9) (16,13,38) (18,14,10) (19,14,40) (22,15,25) (23,16,10) (24,16,19) (26,18,29) (28,19,31) (30,22,17) (32,24,6) 
+
+
+Time 53
+Server 1: (5,8,32) (9,10,11) (10,10,36) (12,11,14) (14,13,27) (17,14,46) (20,15,25) (21,15,41) (25,16,33) (27,18,18) (29,19,28) (31,24,44) 
+Server 2: (7,8,13) (8,9,40) (11,10,35) (13,12,10) (15,13,9) (16,13,38) (18,14,10) (19,14,40) (22,15,25) (23,16,10) (24,16,19) (26,18,29) (28,19,31) (30,22,17) (32,24,6) 
+
+
+Time 54
+Server 1: (5,8,31) (9,10,11) (10,10,36) (12,11,14) (14,13,27) (17,14,46) (20,15,25) (21,15,41) (25,16,33) (27,18,18) (29,19,28) (31,24,44) 
+Server 2: (7,8,12) (8,9,40) (11,10,35) (13,12,10) (15,13,9) (16,13,38) (18,14,10) (19,14,40) (22,15,25) (23,16,10) (24,16,19) (26,18,29) (28,19,31) (30,22,17) (32,24,6) 
+
+
+Time 55
+Server 1: (5,8,30) (9,10,11) (10,10,36) (12,11,14) (14,13,27) (17,14,46) (20,15,25) (21,15,41) (25,16,33) (27,18,18) (29,19,28) (31,24,44) 
+Server 2: (7,8,11) (8,9,40) (11,10,35) (13,12,10) (15,13,9) (16,13,38) (18,14,10) (19,14,40) (22,15,25) (23,16,10) (24,16,19) (26,18,29) (28,19,31) (30,22,17) (32,24,6) 
+
+
+Time 56
+Server 1: (5,8,29) (9,10,11) (10,10,36) (12,11,14) (14,13,27) (17,14,46) (20,15,25) (21,15,41) (25,16,33) (27,18,18) (29,19,28) (31,24,44) 
+Server 2: (7,8,10) (8,9,40) (11,10,35) (13,12,10) (15,13,9) (16,13,38) (18,14,10) (19,14,40) (22,15,25) (23,16,10) (24,16,19) (26,18,29) (28,19,31) (30,22,17) (32,24,6) 
+
+
+Time 57
+Server 1: (5,8,28) (9,10,11) (10,10,36) (12,11,14) (14,13,27) (17,14,46) (20,15,25) (21,15,41) (25,16,33) (27,18,18) (29,19,28) (31,24,44) 
+Server 2: (7,8,9) (8,9,40) (11,10,35) (13,12,10) (15,13,9) (16,13,38) (18,14,10) (19,14,40) (22,15,25) (23,16,10) (24,16,19) (26,18,29) (28,19,31) (30,22,17) (32,24,6) 
+
+
+Time 58
+Server 1: (5,8,27) (9,10,11) (10,10,36) (12,11,14) (14,13,27) (17,14,46) (20,15,25) (21,15,41) (25,16,33) (27,18,18) (29,19,28) (31,24,44) 
+Server 2: (7,8,8) (8,9,40) (11,10,35) (13,12,10) (15,13,9) (16,13,38) (18,14,10) (19,14,40) (22,15,25) (23,16,10) (24,16,19) (26,18,29) (28,19,31) (30,22,17) (32,24,6) 
+
+
+Time 59
+Server 1: (5,8,26) (9,10,11) (10,10,36) (12,11,14) (14,13,27) (17,14,46) (20,15,25) (21,15,41) (25,16,33) (27,18,18) (29,19,28) (31,24,44) 
+Server 2: (7,8,7) (8,9,40) (11,10,35) (13,12,10) (15,13,9) (16,13,38) (18,14,10) (19,14,40) (22,15,25) (23,16,10) (24,16,19) (26,18,29) (28,19,31) (30,22,17) (32,24,6) 
+
+
+Time 60
+Server 1: (5,8,25) (9,10,11) (10,10,36) (12,11,14) (14,13,27) (17,14,46) (20,15,25) (21,15,41) (25,16,33) (27,18,18) (29,19,28) (31,24,44) 
+Server 2: (7,8,6) (8,9,40) (11,10,35) (13,12,10) (15,13,9) (16,13,38) (18,14,10) (19,14,40) (22,15,25) (23,16,10) (24,16,19) (26,18,29) (28,19,31) (30,22,17) (32,24,6) 
+
+
+Time 61
+Server 1: (5,8,24) (9,10,11) (10,10,36) (12,11,14) (14,13,27) (17,14,46) (20,15,25) (21,15,41) (25,16,33) (27,18,18) (29,19,28) (31,24,44) 
+Server 2: (7,8,5) (8,9,40) (11,10,35) (13,12,10) (15,13,9) (16,13,38) (18,14,10) (19,14,40) (22,15,25) (23,16,10) (24,16,19) (26,18,29) (28,19,31) (30,22,17) (32,24,6) 
+
+
+Time 62
+Server 1: (5,8,23) (9,10,11) (10,10,36) (12,11,14) (14,13,27) (17,14,46) (20,15,25) (21,15,41) (25,16,33) (27,18,18) (29,19,28) (31,24,44) 
+Server 2: (7,8,4) (8,9,40) (11,10,35) (13,12,10) (15,13,9) (16,13,38) (18,14,10) (19,14,40) (22,15,25) (23,16,10) (24,16,19) (26,18,29) (28,19,31) (30,22,17) (32,24,6) 
+
+
+Time 63
+Server 1: (5,8,22) (9,10,11) (10,10,36) (12,11,14) (14,13,27) (17,14,46) (20,15,25) (21,15,41) (25,16,33) (27,18,18) (29,19,28) (31,24,44) 
+Server 2: (7,8,3) (8,9,40) (11,10,35) (13,12,10) (15,13,9) (16,13,38) (18,14,10) (19,14,40) (22,15,25) (23,16,10) (24,16,19) (26,18,29) (28,19,31) (30,22,17) (32,24,6) 
+
+
+Time 64
+Server 1: (5,8,21) (9,10,11) (10,10,36) (12,11,14) (14,13,27) (17,14,46) (20,15,25) (21,15,41) (25,16,33) (27,18,18) (29,19,28) (31,24,44) 
+Server 2: (7,8,2) (8,9,40) (11,10,35) (13,12,10) (15,13,9) (16,13,38) (18,14,10) (19,14,40) (22,15,25) (23,16,10) (24,16,19) (26,18,29) (28,19,31) (30,22,17) (32,24,6) 
+

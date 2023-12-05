@@ -1,0 +1,1446 @@
+
+Time 0
+Server 1: closed
+Server 2: closed
+Server 3: closed
+Server 4: closed
+Server 5: closed
+
+Task 1: arrival time=2, service time=3
+Task 2: arrival time=3, service time=1
+Task 3: arrival time=3, service time=5
+Task 4: arrival time=4, service time=1
+Task 5: arrival time=5, service time=5
+Task 6: arrival time=5, service time=3
+Task 7: arrival time=6, service time=1
+Task 8: arrival time=7, service time=4
+Task 9: arrival time=8, service time=5
+Task 10: arrival time=9, service time=5
+Task 11: arrival time=9, service time=1
+Task 12: arrival time=12, service time=5
+Task 13: arrival time=13, service time=5
+Task 14: arrival time=14, service time=6
+Task 15: arrival time=14, service time=1
+Task 16: arrival time=14, service time=1
+Task 17: arrival time=14, service time=2
+Task 18: arrival time=15, service time=4
+Task 19: arrival time=17, service time=1
+Task 20: arrival time=18, service time=5
+Task 21: arrival time=19, service time=5
+Task 22: arrival time=19, service time=6
+Task 23: arrival time=20, service time=6
+Task 24: arrival time=20, service time=4
+Task 25: arrival time=20, service time=2
+Task 26: arrival time=20, service time=6
+Task 27: arrival time=21, service time=6
+Task 28: arrival time=21, service time=2
+Task 29: arrival time=22, service time=2
+Task 30: arrival time=23, service time=6
+Task 31: arrival time=23, service time=2
+Task 32: arrival time=23, service time=3
+Task 33: arrival time=24, service time=2
+Task 34: arrival time=25, service time=1
+Task 35: arrival time=25, service time=1
+Task 36: arrival time=26, service time=6
+Task 37: arrival time=27, service time=6
+Task 38: arrival time=27, service time=5
+Task 39: arrival time=27, service time=2
+Task 40: arrival time=27, service time=2
+Task 41: arrival time=27, service time=3
+Task 42: arrival time=29, service time=4
+Task 43: arrival time=29, service time=2
+Task 44: arrival time=29, service time=6
+Task 45: arrival time=30, service time=1
+Task 46: arrival time=30, service time=6
+Task 47: arrival time=32, service time=1
+Task 48: arrival time=33, service time=4
+Task 49: arrival time=38, service time=2
+Task 50: arrival time=38, service time=5
+
+Time 1
+Server 1: closed
+Server 2: closed
+Server 3: closed
+Server 4: closed
+Server 5: closed
+
+Task 1: arrival time=2, service time=3
+Task 2: arrival time=3, service time=1
+Task 3: arrival time=3, service time=5
+Task 4: arrival time=4, service time=1
+Task 5: arrival time=5, service time=5
+Task 6: arrival time=5, service time=3
+Task 7: arrival time=6, service time=1
+Task 8: arrival time=7, service time=4
+Task 9: arrival time=8, service time=5
+Task 10: arrival time=9, service time=5
+Task 11: arrival time=9, service time=1
+Task 12: arrival time=12, service time=5
+Task 13: arrival time=13, service time=5
+Task 14: arrival time=14, service time=6
+Task 15: arrival time=14, service time=1
+Task 16: arrival time=14, service time=1
+Task 17: arrival time=14, service time=2
+Task 18: arrival time=15, service time=4
+Task 19: arrival time=17, service time=1
+Task 20: arrival time=18, service time=5
+Task 21: arrival time=19, service time=5
+Task 22: arrival time=19, service time=6
+Task 23: arrival time=20, service time=6
+Task 24: arrival time=20, service time=4
+Task 25: arrival time=20, service time=2
+Task 26: arrival time=20, service time=6
+Task 27: arrival time=21, service time=6
+Task 28: arrival time=21, service time=2
+Task 29: arrival time=22, service time=2
+Task 30: arrival time=23, service time=6
+Task 31: arrival time=23, service time=2
+Task 32: arrival time=23, service time=3
+Task 33: arrival time=24, service time=2
+Task 34: arrival time=25, service time=1
+Task 35: arrival time=25, service time=1
+Task 36: arrival time=26, service time=6
+Task 37: arrival time=27, service time=6
+Task 38: arrival time=27, service time=5
+Task 39: arrival time=27, service time=2
+Task 40: arrival time=27, service time=2
+Task 41: arrival time=27, service time=3
+Task 42: arrival time=29, service time=4
+Task 43: arrival time=29, service time=2
+Task 44: arrival time=29, service time=6
+Task 45: arrival time=30, service time=1
+Task 46: arrival time=30, service time=6
+Task 47: arrival time=32, service time=1
+Task 48: arrival time=33, service time=4
+Task 49: arrival time=38, service time=2
+Task 50: arrival time=38, service time=5
+
+Time 2
+Server 1: (1,2,3) 
+Server 2: closed
+Server 3: closed
+Server 4: closed
+Server 5: closed
+
+Task 2: arrival time=3, service time=1
+Task 3: arrival time=3, service time=5
+Task 4: arrival time=4, service time=1
+Task 5: arrival time=5, service time=5
+Task 6: arrival time=5, service time=3
+Task 7: arrival time=6, service time=1
+Task 8: arrival time=7, service time=4
+Task 9: arrival time=8, service time=5
+Task 10: arrival time=9, service time=5
+Task 11: arrival time=9, service time=1
+Task 12: arrival time=12, service time=5
+Task 13: arrival time=13, service time=5
+Task 14: arrival time=14, service time=6
+Task 15: arrival time=14, service time=1
+Task 16: arrival time=14, service time=1
+Task 17: arrival time=14, service time=2
+Task 18: arrival time=15, service time=4
+Task 19: arrival time=17, service time=1
+Task 20: arrival time=18, service time=5
+Task 21: arrival time=19, service time=5
+Task 22: arrival time=19, service time=6
+Task 23: arrival time=20, service time=6
+Task 24: arrival time=20, service time=4
+Task 25: arrival time=20, service time=2
+Task 26: arrival time=20, service time=6
+Task 27: arrival time=21, service time=6
+Task 28: arrival time=21, service time=2
+Task 29: arrival time=22, service time=2
+Task 30: arrival time=23, service time=6
+Task 31: arrival time=23, service time=2
+Task 32: arrival time=23, service time=3
+Task 33: arrival time=24, service time=2
+Task 34: arrival time=25, service time=1
+Task 35: arrival time=25, service time=1
+Task 36: arrival time=26, service time=6
+Task 37: arrival time=27, service time=6
+Task 38: arrival time=27, service time=5
+Task 39: arrival time=27, service time=2
+Task 40: arrival time=27, service time=2
+Task 41: arrival time=27, service time=3
+Task 42: arrival time=29, service time=4
+Task 43: arrival time=29, service time=2
+Task 44: arrival time=29, service time=6
+Task 45: arrival time=30, service time=1
+Task 46: arrival time=30, service time=6
+Task 47: arrival time=32, service time=1
+Task 48: arrival time=33, service time=4
+Task 49: arrival time=38, service time=2
+Task 50: arrival time=38, service time=5
+
+Time 3
+Server 1: (1,2,3) 
+Server 2: (2,3,1) 
+Server 3: (3,3,5) 
+Server 4: closed
+Server 5: closed
+
+Task 4: arrival time=4, service time=1
+Task 5: arrival time=5, service time=5
+Task 6: arrival time=5, service time=3
+Task 7: arrival time=6, service time=1
+Task 8: arrival time=7, service time=4
+Task 9: arrival time=8, service time=5
+Task 10: arrival time=9, service time=5
+Task 11: arrival time=9, service time=1
+Task 12: arrival time=12, service time=5
+Task 13: arrival time=13, service time=5
+Task 14: arrival time=14, service time=6
+Task 15: arrival time=14, service time=1
+Task 16: arrival time=14, service time=1
+Task 17: arrival time=14, service time=2
+Task 18: arrival time=15, service time=4
+Task 19: arrival time=17, service time=1
+Task 20: arrival time=18, service time=5
+Task 21: arrival time=19, service time=5
+Task 22: arrival time=19, service time=6
+Task 23: arrival time=20, service time=6
+Task 24: arrival time=20, service time=4
+Task 25: arrival time=20, service time=2
+Task 26: arrival time=20, service time=6
+Task 27: arrival time=21, service time=6
+Task 28: arrival time=21, service time=2
+Task 29: arrival time=22, service time=2
+Task 30: arrival time=23, service time=6
+Task 31: arrival time=23, service time=2
+Task 32: arrival time=23, service time=3
+Task 33: arrival time=24, service time=2
+Task 34: arrival time=25, service time=1
+Task 35: arrival time=25, service time=1
+Task 36: arrival time=26, service time=6
+Task 37: arrival time=27, service time=6
+Task 38: arrival time=27, service time=5
+Task 39: arrival time=27, service time=2
+Task 40: arrival time=27, service time=2
+Task 41: arrival time=27, service time=3
+Task 42: arrival time=29, service time=4
+Task 43: arrival time=29, service time=2
+Task 44: arrival time=29, service time=6
+Task 45: arrival time=30, service time=1
+Task 46: arrival time=30, service time=6
+Task 47: arrival time=32, service time=1
+Task 48: arrival time=33, service time=4
+Task 49: arrival time=38, service time=2
+Task 50: arrival time=38, service time=5
+
+Time 4
+Server 1: (1,2,2) 
+Server 2: closed
+Server 3: (3,3,5) 
+Server 4: (4,4,1) 
+Server 5: closed
+
+Task 5: arrival time=5, service time=5
+Task 6: arrival time=5, service time=3
+Task 7: arrival time=6, service time=1
+Task 8: arrival time=7, service time=4
+Task 9: arrival time=8, service time=5
+Task 10: arrival time=9, service time=5
+Task 11: arrival time=9, service time=1
+Task 12: arrival time=12, service time=5
+Task 13: arrival time=13, service time=5
+Task 14: arrival time=14, service time=6
+Task 15: arrival time=14, service time=1
+Task 16: arrival time=14, service time=1
+Task 17: arrival time=14, service time=2
+Task 18: arrival time=15, service time=4
+Task 19: arrival time=17, service time=1
+Task 20: arrival time=18, service time=5
+Task 21: arrival time=19, service time=5
+Task 22: arrival time=19, service time=6
+Task 23: arrival time=20, service time=6
+Task 24: arrival time=20, service time=4
+Task 25: arrival time=20, service time=2
+Task 26: arrival time=20, service time=6
+Task 27: arrival time=21, service time=6
+Task 28: arrival time=21, service time=2
+Task 29: arrival time=22, service time=2
+Task 30: arrival time=23, service time=6
+Task 31: arrival time=23, service time=2
+Task 32: arrival time=23, service time=3
+Task 33: arrival time=24, service time=2
+Task 34: arrival time=25, service time=1
+Task 35: arrival time=25, service time=1
+Task 36: arrival time=26, service time=6
+Task 37: arrival time=27, service time=6
+Task 38: arrival time=27, service time=5
+Task 39: arrival time=27, service time=2
+Task 40: arrival time=27, service time=2
+Task 41: arrival time=27, service time=3
+Task 42: arrival time=29, service time=4
+Task 43: arrival time=29, service time=2
+Task 44: arrival time=29, service time=6
+Task 45: arrival time=30, service time=1
+Task 46: arrival time=30, service time=6
+Task 47: arrival time=32, service time=1
+Task 48: arrival time=33, service time=4
+Task 49: arrival time=38, service time=2
+Task 50: arrival time=38, service time=5
+
+Time 5
+Server 1: (5,5,5) 
+Server 2: (6,5,3) 
+Server 3: (3,3,3) 
+Server 4: closed
+Server 5: closed
+
+Task 7: arrival time=6, service time=1
+Task 8: arrival time=7, service time=4
+Task 9: arrival time=8, service time=5
+Task 10: arrival time=9, service time=5
+Task 11: arrival time=9, service time=1
+Task 12: arrival time=12, service time=5
+Task 13: arrival time=13, service time=5
+Task 14: arrival time=14, service time=6
+Task 15: arrival time=14, service time=1
+Task 16: arrival time=14, service time=1
+Task 17: arrival time=14, service time=2
+Task 18: arrival time=15, service time=4
+Task 19: arrival time=17, service time=1
+Task 20: arrival time=18, service time=5
+Task 21: arrival time=19, service time=5
+Task 22: arrival time=19, service time=6
+Task 23: arrival time=20, service time=6
+Task 24: arrival time=20, service time=4
+Task 25: arrival time=20, service time=2
+Task 26: arrival time=20, service time=6
+Task 27: arrival time=21, service time=6
+Task 28: arrival time=21, service time=2
+Task 29: arrival time=22, service time=2
+Task 30: arrival time=23, service time=6
+Task 31: arrival time=23, service time=2
+Task 32: arrival time=23, service time=3
+Task 33: arrival time=24, service time=2
+Task 34: arrival time=25, service time=1
+Task 35: arrival time=25, service time=1
+Task 36: arrival time=26, service time=6
+Task 37: arrival time=27, service time=6
+Task 38: arrival time=27, service time=5
+Task 39: arrival time=27, service time=2
+Task 40: arrival time=27, service time=2
+Task 41: arrival time=27, service time=3
+Task 42: arrival time=29, service time=4
+Task 43: arrival time=29, service time=2
+Task 44: arrival time=29, service time=6
+Task 45: arrival time=30, service time=1
+Task 46: arrival time=30, service time=6
+Task 47: arrival time=32, service time=1
+Task 48: arrival time=33, service time=4
+Task 49: arrival time=38, service time=2
+Task 50: arrival time=38, service time=5
+
+Time 6
+Server 1: (5,5,4) 
+Server 2: (6,5,2) 
+Server 3: (3,3,2) 
+Server 4: (7,6,1) 
+Server 5: closed
+
+Task 8: arrival time=7, service time=4
+Task 9: arrival time=8, service time=5
+Task 10: arrival time=9, service time=5
+Task 11: arrival time=9, service time=1
+Task 12: arrival time=12, service time=5
+Task 13: arrival time=13, service time=5
+Task 14: arrival time=14, service time=6
+Task 15: arrival time=14, service time=1
+Task 16: arrival time=14, service time=1
+Task 17: arrival time=14, service time=2
+Task 18: arrival time=15, service time=4
+Task 19: arrival time=17, service time=1
+Task 20: arrival time=18, service time=5
+Task 21: arrival time=19, service time=5
+Task 22: arrival time=19, service time=6
+Task 23: arrival time=20, service time=6
+Task 24: arrival time=20, service time=4
+Task 25: arrival time=20, service time=2
+Task 26: arrival time=20, service time=6
+Task 27: arrival time=21, service time=6
+Task 28: arrival time=21, service time=2
+Task 29: arrival time=22, service time=2
+Task 30: arrival time=23, service time=6
+Task 31: arrival time=23, service time=2
+Task 32: arrival time=23, service time=3
+Task 33: arrival time=24, service time=2
+Task 34: arrival time=25, service time=1
+Task 35: arrival time=25, service time=1
+Task 36: arrival time=26, service time=6
+Task 37: arrival time=27, service time=6
+Task 38: arrival time=27, service time=5
+Task 39: arrival time=27, service time=2
+Task 40: arrival time=27, service time=2
+Task 41: arrival time=27, service time=3
+Task 42: arrival time=29, service time=4
+Task 43: arrival time=29, service time=2
+Task 44: arrival time=29, service time=6
+Task 45: arrival time=30, service time=1
+Task 46: arrival time=30, service time=6
+Task 47: arrival time=32, service time=1
+Task 48: arrival time=33, service time=4
+Task 49: arrival time=38, service time=2
+Task 50: arrival time=38, service time=5
+
+Time 7
+Server 1: (5,5,3) 
+Server 2: (6,5,1) 
+Server 3: (3,3,1) 
+Server 4: (8,7,4) 
+Server 5: closed
+
+Task 9: arrival time=8, service time=5
+Task 10: arrival time=9, service time=5
+Task 11: arrival time=9, service time=1
+Task 12: arrival time=12, service time=5
+Task 13: arrival time=13, service time=5
+Task 14: arrival time=14, service time=6
+Task 15: arrival time=14, service time=1
+Task 16: arrival time=14, service time=1
+Task 17: arrival time=14, service time=2
+Task 18: arrival time=15, service time=4
+Task 19: arrival time=17, service time=1
+Task 20: arrival time=18, service time=5
+Task 21: arrival time=19, service time=5
+Task 22: arrival time=19, service time=6
+Task 23: arrival time=20, service time=6
+Task 24: arrival time=20, service time=4
+Task 25: arrival time=20, service time=2
+Task 26: arrival time=20, service time=6
+Task 27: arrival time=21, service time=6
+Task 28: arrival time=21, service time=2
+Task 29: arrival time=22, service time=2
+Task 30: arrival time=23, service time=6
+Task 31: arrival time=23, service time=2
+Task 32: arrival time=23, service time=3
+Task 33: arrival time=24, service time=2
+Task 34: arrival time=25, service time=1
+Task 35: arrival time=25, service time=1
+Task 36: arrival time=26, service time=6
+Task 37: arrival time=27, service time=6
+Task 38: arrival time=27, service time=5
+Task 39: arrival time=27, service time=2
+Task 40: arrival time=27, service time=2
+Task 41: arrival time=27, service time=3
+Task 42: arrival time=29, service time=4
+Task 43: arrival time=29, service time=2
+Task 44: arrival time=29, service time=6
+Task 45: arrival time=30, service time=1
+Task 46: arrival time=30, service time=6
+Task 47: arrival time=32, service time=1
+Task 48: arrival time=33, service time=4
+Task 49: arrival time=38, service time=2
+Task 50: arrival time=38, service time=5
+
+Time 8
+Server 1: (5,5,2) 
+Server 2: closed
+Server 3: closed
+Server 4: (8,7,3) 
+Server 5: (9,8,5) 
+
+Task 10: arrival time=9, service time=5
+Task 11: arrival time=9, service time=1
+Task 12: arrival time=12, service time=5
+Task 13: arrival time=13, service time=5
+Task 14: arrival time=14, service time=6
+Task 15: arrival time=14, service time=1
+Task 16: arrival time=14, service time=1
+Task 17: arrival time=14, service time=2
+Task 18: arrival time=15, service time=4
+Task 19: arrival time=17, service time=1
+Task 20: arrival time=18, service time=5
+Task 21: arrival time=19, service time=5
+Task 22: arrival time=19, service time=6
+Task 23: arrival time=20, service time=6
+Task 24: arrival time=20, service time=4
+Task 25: arrival time=20, service time=2
+Task 26: arrival time=20, service time=6
+Task 27: arrival time=21, service time=6
+Task 28: arrival time=21, service time=2
+Task 29: arrival time=22, service time=2
+Task 30: arrival time=23, service time=6
+Task 31: arrival time=23, service time=2
+Task 32: arrival time=23, service time=3
+Task 33: arrival time=24, service time=2
+Task 34: arrival time=25, service time=1
+Task 35: arrival time=25, service time=1
+Task 36: arrival time=26, service time=6
+Task 37: arrival time=27, service time=6
+Task 38: arrival time=27, service time=5
+Task 39: arrival time=27, service time=2
+Task 40: arrival time=27, service time=2
+Task 41: arrival time=27, service time=3
+Task 42: arrival time=29, service time=4
+Task 43: arrival time=29, service time=2
+Task 44: arrival time=29, service time=6
+Task 45: arrival time=30, service time=1
+Task 46: arrival time=30, service time=6
+Task 47: arrival time=32, service time=1
+Task 48: arrival time=33, service time=4
+Task 49: arrival time=38, service time=2
+Task 50: arrival time=38, service time=5
+
+Time 9
+Server 1: (5,5,1) 
+Server 2: (10,9,5) 
+Server 3: (11,9,1) 
+Server 4: (8,7,2) 
+Server 5: (9,8,4) 
+
+Task 12: arrival time=12, service time=5
+Task 13: arrival time=13, service time=5
+Task 14: arrival time=14, service time=6
+Task 15: arrival time=14, service time=1
+Task 16: arrival time=14, service time=1
+Task 17: arrival time=14, service time=2
+Task 18: arrival time=15, service time=4
+Task 19: arrival time=17, service time=1
+Task 20: arrival time=18, service time=5
+Task 21: arrival time=19, service time=5
+Task 22: arrival time=19, service time=6
+Task 23: arrival time=20, service time=6
+Task 24: arrival time=20, service time=4
+Task 25: arrival time=20, service time=2
+Task 26: arrival time=20, service time=6
+Task 27: arrival time=21, service time=6
+Task 28: arrival time=21, service time=2
+Task 29: arrival time=22, service time=2
+Task 30: arrival time=23, service time=6
+Task 31: arrival time=23, service time=2
+Task 32: arrival time=23, service time=3
+Task 33: arrival time=24, service time=2
+Task 34: arrival time=25, service time=1
+Task 35: arrival time=25, service time=1
+Task 36: arrival time=26, service time=6
+Task 37: arrival time=27, service time=6
+Task 38: arrival time=27, service time=5
+Task 39: arrival time=27, service time=2
+Task 40: arrival time=27, service time=2
+Task 41: arrival time=27, service time=3
+Task 42: arrival time=29, service time=4
+Task 43: arrival time=29, service time=2
+Task 44: arrival time=29, service time=6
+Task 45: arrival time=30, service time=1
+Task 46: arrival time=30, service time=6
+Task 47: arrival time=32, service time=1
+Task 48: arrival time=33, service time=4
+Task 49: arrival time=38, service time=2
+Task 50: arrival time=38, service time=5
+
+Time 10
+Server 1: closed
+Server 2: (10,9,4) 
+Server 3: closed
+Server 4: (8,7,1) 
+Server 5: (9,8,3) 
+
+Task 12: arrival time=12, service time=5
+Task 13: arrival time=13, service time=5
+Task 14: arrival time=14, service time=6
+Task 15: arrival time=14, service time=1
+Task 16: arrival time=14, service time=1
+Task 17: arrival time=14, service time=2
+Task 18: arrival time=15, service time=4
+Task 19: arrival time=17, service time=1
+Task 20: arrival time=18, service time=5
+Task 21: arrival time=19, service time=5
+Task 22: arrival time=19, service time=6
+Task 23: arrival time=20, service time=6
+Task 24: arrival time=20, service time=4
+Task 25: arrival time=20, service time=2
+Task 26: arrival time=20, service time=6
+Task 27: arrival time=21, service time=6
+Task 28: arrival time=21, service time=2
+Task 29: arrival time=22, service time=2
+Task 30: arrival time=23, service time=6
+Task 31: arrival time=23, service time=2
+Task 32: arrival time=23, service time=3
+Task 33: arrival time=24, service time=2
+Task 34: arrival time=25, service time=1
+Task 35: arrival time=25, service time=1
+Task 36: arrival time=26, service time=6
+Task 37: arrival time=27, service time=6
+Task 38: arrival time=27, service time=5
+Task 39: arrival time=27, service time=2
+Task 40: arrival time=27, service time=2
+Task 41: arrival time=27, service time=3
+Task 42: arrival time=29, service time=4
+Task 43: arrival time=29, service time=2
+Task 44: arrival time=29, service time=6
+Task 45: arrival time=30, service time=1
+Task 46: arrival time=30, service time=6
+Task 47: arrival time=32, service time=1
+Task 48: arrival time=33, service time=4
+Task 49: arrival time=38, service time=2
+Task 50: arrival time=38, service time=5
+
+Time 11
+Server 1: closed
+Server 2: (10,9,3) 
+Server 3: closed
+Server 4: closed
+Server 5: (9,8,2) 
+
+Task 12: arrival time=12, service time=5
+Task 13: arrival time=13, service time=5
+Task 14: arrival time=14, service time=6
+Task 15: arrival time=14, service time=1
+Task 16: arrival time=14, service time=1
+Task 17: arrival time=14, service time=2
+Task 18: arrival time=15, service time=4
+Task 19: arrival time=17, service time=1
+Task 20: arrival time=18, service time=5
+Task 21: arrival time=19, service time=5
+Task 22: arrival time=19, service time=6
+Task 23: arrival time=20, service time=6
+Task 24: arrival time=20, service time=4
+Task 25: arrival time=20, service time=2
+Task 26: arrival time=20, service time=6
+Task 27: arrival time=21, service time=6
+Task 28: arrival time=21, service time=2
+Task 29: arrival time=22, service time=2
+Task 30: arrival time=23, service time=6
+Task 31: arrival time=23, service time=2
+Task 32: arrival time=23, service time=3
+Task 33: arrival time=24, service time=2
+Task 34: arrival time=25, service time=1
+Task 35: arrival time=25, service time=1
+Task 36: arrival time=26, service time=6
+Task 37: arrival time=27, service time=6
+Task 38: arrival time=27, service time=5
+Task 39: arrival time=27, service time=2
+Task 40: arrival time=27, service time=2
+Task 41: arrival time=27, service time=3
+Task 42: arrival time=29, service time=4
+Task 43: arrival time=29, service time=2
+Task 44: arrival time=29, service time=6
+Task 45: arrival time=30, service time=1
+Task 46: arrival time=30, service time=6
+Task 47: arrival time=32, service time=1
+Task 48: arrival time=33, service time=4
+Task 49: arrival time=38, service time=2
+Task 50: arrival time=38, service time=5
+
+Time 12
+Server 1: (12,12,5) 
+Server 2: (10,9,2) 
+Server 3: closed
+Server 4: closed
+Server 5: (9,8,1) 
+
+Task 13: arrival time=13, service time=5
+Task 14: arrival time=14, service time=6
+Task 15: arrival time=14, service time=1
+Task 16: arrival time=14, service time=1
+Task 17: arrival time=14, service time=2
+Task 18: arrival time=15, service time=4
+Task 19: arrival time=17, service time=1
+Task 20: arrival time=18, service time=5
+Task 21: arrival time=19, service time=5
+Task 22: arrival time=19, service time=6
+Task 23: arrival time=20, service time=6
+Task 24: arrival time=20, service time=4
+Task 25: arrival time=20, service time=2
+Task 26: arrival time=20, service time=6
+Task 27: arrival time=21, service time=6
+Task 28: arrival time=21, service time=2
+Task 29: arrival time=22, service time=2
+Task 30: arrival time=23, service time=6
+Task 31: arrival time=23, service time=2
+Task 32: arrival time=23, service time=3
+Task 33: arrival time=24, service time=2
+Task 34: arrival time=25, service time=1
+Task 35: arrival time=25, service time=1
+Task 36: arrival time=26, service time=6
+Task 37: arrival time=27, service time=6
+Task 38: arrival time=27, service time=5
+Task 39: arrival time=27, service time=2
+Task 40: arrival time=27, service time=2
+Task 41: arrival time=27, service time=3
+Task 42: arrival time=29, service time=4
+Task 43: arrival time=29, service time=2
+Task 44: arrival time=29, service time=6
+Task 45: arrival time=30, service time=1
+Task 46: arrival time=30, service time=6
+Task 47: arrival time=32, service time=1
+Task 48: arrival time=33, service time=4
+Task 49: arrival time=38, service time=2
+Task 50: arrival time=38, service time=5
+
+Time 13
+Server 1: (12,12,4) 
+Server 2: (10,9,1) 
+Server 3: (13,13,5) 
+Server 4: closed
+Server 5: closed
+
+Task 14: arrival time=14, service time=6
+Task 15: arrival time=14, service time=1
+Task 16: arrival time=14, service time=1
+Task 17: arrival time=14, service time=2
+Task 18: arrival time=15, service time=4
+Task 19: arrival time=17, service time=1
+Task 20: arrival time=18, service time=5
+Task 21: arrival time=19, service time=5
+Task 22: arrival time=19, service time=6
+Task 23: arrival time=20, service time=6
+Task 24: arrival time=20, service time=4
+Task 25: arrival time=20, service time=2
+Task 26: arrival time=20, service time=6
+Task 27: arrival time=21, service time=6
+Task 28: arrival time=21, service time=2
+Task 29: arrival time=22, service time=2
+Task 30: arrival time=23, service time=6
+Task 31: arrival time=23, service time=2
+Task 32: arrival time=23, service time=3
+Task 33: arrival time=24, service time=2
+Task 34: arrival time=25, service time=1
+Task 35: arrival time=25, service time=1
+Task 36: arrival time=26, service time=6
+Task 37: arrival time=27, service time=6
+Task 38: arrival time=27, service time=5
+Task 39: arrival time=27, service time=2
+Task 40: arrival time=27, service time=2
+Task 41: arrival time=27, service time=3
+Task 42: arrival time=29, service time=4
+Task 43: arrival time=29, service time=2
+Task 44: arrival time=29, service time=6
+Task 45: arrival time=30, service time=1
+Task 46: arrival time=30, service time=6
+Task 47: arrival time=32, service time=1
+Task 48: arrival time=33, service time=4
+Task 49: arrival time=38, service time=2
+Task 50: arrival time=38, service time=5
+
+Time 14
+Server 1: (12,12,3) 
+Server 2: (14,14,6) 
+Server 3: (13,13,4) 
+Server 4: (15,14,1) (17,14,2) 
+Server 5: (16,14,1) 
+
+Task 18: arrival time=15, service time=4
+Task 19: arrival time=17, service time=1
+Task 20: arrival time=18, service time=5
+Task 21: arrival time=19, service time=5
+Task 22: arrival time=19, service time=6
+Task 23: arrival time=20, service time=6
+Task 24: arrival time=20, service time=4
+Task 25: arrival time=20, service time=2
+Task 26: arrival time=20, service time=6
+Task 27: arrival time=21, service time=6
+Task 28: arrival time=21, service time=2
+Task 29: arrival time=22, service time=2
+Task 30: arrival time=23, service time=6
+Task 31: arrival time=23, service time=2
+Task 32: arrival time=23, service time=3
+Task 33: arrival time=24, service time=2
+Task 34: arrival time=25, service time=1
+Task 35: arrival time=25, service time=1
+Task 36: arrival time=26, service time=6
+Task 37: arrival time=27, service time=6
+Task 38: arrival time=27, service time=5
+Task 39: arrival time=27, service time=2
+Task 40: arrival time=27, service time=2
+Task 41: arrival time=27, service time=3
+Task 42: arrival time=29, service time=4
+Task 43: arrival time=29, service time=2
+Task 44: arrival time=29, service time=6
+Task 45: arrival time=30, service time=1
+Task 46: arrival time=30, service time=6
+Task 47: arrival time=32, service time=1
+Task 48: arrival time=33, service time=4
+Task 49: arrival time=38, service time=2
+Task 50: arrival time=38, service time=5
+
+Time 15
+Server 1: (12,12,2) 
+Server 2: (14,14,5) 
+Server 3: (13,13,3) 
+Server 4: (17,14,2) 
+Server 5: (18,15,4) 
+
+Task 19: arrival time=17, service time=1
+Task 20: arrival time=18, service time=5
+Task 21: arrival time=19, service time=5
+Task 22: arrival time=19, service time=6
+Task 23: arrival time=20, service time=6
+Task 24: arrival time=20, service time=4
+Task 25: arrival time=20, service time=2
+Task 26: arrival time=20, service time=6
+Task 27: arrival time=21, service time=6
+Task 28: arrival time=21, service time=2
+Task 29: arrival time=22, service time=2
+Task 30: arrival time=23, service time=6
+Task 31: arrival time=23, service time=2
+Task 32: arrival time=23, service time=3
+Task 33: arrival time=24, service time=2
+Task 34: arrival time=25, service time=1
+Task 35: arrival time=25, service time=1
+Task 36: arrival time=26, service time=6
+Task 37: arrival time=27, service time=6
+Task 38: arrival time=27, service time=5
+Task 39: arrival time=27, service time=2
+Task 40: arrival time=27, service time=2
+Task 41: arrival time=27, service time=3
+Task 42: arrival time=29, service time=4
+Task 43: arrival time=29, service time=2
+Task 44: arrival time=29, service time=6
+Task 45: arrival time=30, service time=1
+Task 46: arrival time=30, service time=6
+Task 47: arrival time=32, service time=1
+Task 48: arrival time=33, service time=4
+Task 49: arrival time=38, service time=2
+Task 50: arrival time=38, service time=5
+
+Time 16
+Server 1: (12,12,1) 
+Server 2: (14,14,4) 
+Server 3: (13,13,2) 
+Server 4: (17,14,1) 
+Server 5: (18,15,3) 
+
+Task 19: arrival time=17, service time=1
+Task 20: arrival time=18, service time=5
+Task 21: arrival time=19, service time=5
+Task 22: arrival time=19, service time=6
+Task 23: arrival time=20, service time=6
+Task 24: arrival time=20, service time=4
+Task 25: arrival time=20, service time=2
+Task 26: arrival time=20, service time=6
+Task 27: arrival time=21, service time=6
+Task 28: arrival time=21, service time=2
+Task 29: arrival time=22, service time=2
+Task 30: arrival time=23, service time=6
+Task 31: arrival time=23, service time=2
+Task 32: arrival time=23, service time=3
+Task 33: arrival time=24, service time=2
+Task 34: arrival time=25, service time=1
+Task 35: arrival time=25, service time=1
+Task 36: arrival time=26, service time=6
+Task 37: arrival time=27, service time=6
+Task 38: arrival time=27, service time=5
+Task 39: arrival time=27, service time=2
+Task 40: arrival time=27, service time=2
+Task 41: arrival time=27, service time=3
+Task 42: arrival time=29, service time=4
+Task 43: arrival time=29, service time=2
+Task 44: arrival time=29, service time=6
+Task 45: arrival time=30, service time=1
+Task 46: arrival time=30, service time=6
+Task 47: arrival time=32, service time=1
+Task 48: arrival time=33, service time=4
+Task 49: arrival time=38, service time=2
+Task 50: arrival time=38, service time=5
+
+Time 17
+Server 1: (19,17,1) 
+Server 2: (14,14,3) 
+Server 3: (13,13,1) 
+Server 4: closed
+Server 5: (18,15,2) 
+
+Task 20: arrival time=18, service time=5
+Task 21: arrival time=19, service time=5
+Task 22: arrival time=19, service time=6
+Task 23: arrival time=20, service time=6
+Task 24: arrival time=20, service time=4
+Task 25: arrival time=20, service time=2
+Task 26: arrival time=20, service time=6
+Task 27: arrival time=21, service time=6
+Task 28: arrival time=21, service time=2
+Task 29: arrival time=22, service time=2
+Task 30: arrival time=23, service time=6
+Task 31: arrival time=23, service time=2
+Task 32: arrival time=23, service time=3
+Task 33: arrival time=24, service time=2
+Task 34: arrival time=25, service time=1
+Task 35: arrival time=25, service time=1
+Task 36: arrival time=26, service time=6
+Task 37: arrival time=27, service time=6
+Task 38: arrival time=27, service time=5
+Task 39: arrival time=27, service time=2
+Task 40: arrival time=27, service time=2
+Task 41: arrival time=27, service time=3
+Task 42: arrival time=29, service time=4
+Task 43: arrival time=29, service time=2
+Task 44: arrival time=29, service time=6
+Task 45: arrival time=30, service time=1
+Task 46: arrival time=30, service time=6
+Task 47: arrival time=32, service time=1
+Task 48: arrival time=33, service time=4
+Task 49: arrival time=38, service time=2
+Task 50: arrival time=38, service time=5
+
+Time 18
+Server 1: closed
+Server 2: (14,14,2) 
+Server 3: (20,18,5) 
+Server 4: closed
+Server 5: (18,15,2) 
+
+Task 21: arrival time=19, service time=5
+Task 22: arrival time=19, service time=6
+Task 23: arrival time=20, service time=6
+Task 24: arrival time=20, service time=4
+Task 25: arrival time=20, service time=2
+Task 26: arrival time=20, service time=6
+Task 27: arrival time=21, service time=6
+Task 28: arrival time=21, service time=2
+Task 29: arrival time=22, service time=2
+Task 30: arrival time=23, service time=6
+Task 31: arrival time=23, service time=2
+Task 32: arrival time=23, service time=3
+Task 33: arrival time=24, service time=2
+Task 34: arrival time=25, service time=1
+Task 35: arrival time=25, service time=1
+Task 36: arrival time=26, service time=6
+Task 37: arrival time=27, service time=6
+Task 38: arrival time=27, service time=5
+Task 39: arrival time=27, service time=2
+Task 40: arrival time=27, service time=2
+Task 41: arrival time=27, service time=3
+Task 42: arrival time=29, service time=4
+Task 43: arrival time=29, service time=2
+Task 44: arrival time=29, service time=6
+Task 45: arrival time=30, service time=1
+Task 46: arrival time=30, service time=6
+Task 47: arrival time=32, service time=1
+Task 48: arrival time=33, service time=4
+Task 49: arrival time=38, service time=2
+Task 50: arrival time=38, service time=5
+
+Time 19
+Server 1: (21,19,5) 
+Server 2: (14,14,1) 
+Server 3: (20,18,4) 
+Server 4: (22,19,6) 
+Server 5: closed
+
+Task 23: arrival time=20, service time=6
+Task 24: arrival time=20, service time=4
+Task 25: arrival time=20, service time=2
+Task 26: arrival time=20, service time=6
+Task 27: arrival time=21, service time=6
+Task 28: arrival time=21, service time=2
+Task 29: arrival time=22, service time=2
+Task 30: arrival time=23, service time=6
+Task 31: arrival time=23, service time=2
+Task 32: arrival time=23, service time=3
+Task 33: arrival time=24, service time=2
+Task 34: arrival time=25, service time=1
+Task 35: arrival time=25, service time=1
+Task 36: arrival time=26, service time=6
+Task 37: arrival time=27, service time=6
+Task 38: arrival time=27, service time=5
+Task 39: arrival time=27, service time=2
+Task 40: arrival time=27, service time=2
+Task 41: arrival time=27, service time=3
+Task 42: arrival time=29, service time=4
+Task 43: arrival time=29, service time=2
+Task 44: arrival time=29, service time=6
+Task 45: arrival time=30, service time=1
+Task 46: arrival time=30, service time=6
+Task 47: arrival time=32, service time=1
+Task 48: arrival time=33, service time=4
+Task 49: arrival time=38, service time=2
+Task 50: arrival time=38, service time=5
+
+Time 20
+Server 1: (21,19,4) (26,20,6) 
+Server 2: (23,20,6) 
+Server 3: (20,18,3) (25,20,2) 
+Server 4: (22,19,5) 
+Server 5: (24,20,4) 
+
+Task 27: arrival time=21, service time=6
+Task 28: arrival time=21, service time=2
+Task 29: arrival time=22, service time=2
+Task 30: arrival time=23, service time=6
+Task 31: arrival time=23, service time=2
+Task 32: arrival time=23, service time=3
+Task 33: arrival time=24, service time=2
+Task 34: arrival time=25, service time=1
+Task 35: arrival time=25, service time=1
+Task 36: arrival time=26, service time=6
+Task 37: arrival time=27, service time=6
+Task 38: arrival time=27, service time=5
+Task 39: arrival time=27, service time=2
+Task 40: arrival time=27, service time=2
+Task 41: arrival time=27, service time=3
+Task 42: arrival time=29, service time=4
+Task 43: arrival time=29, service time=2
+Task 44: arrival time=29, service time=6
+Task 45: arrival time=30, service time=1
+Task 46: arrival time=30, service time=6
+Task 47: arrival time=32, service time=1
+Task 48: arrival time=33, service time=4
+Task 49: arrival time=38, service time=2
+Task 50: arrival time=38, service time=5
+
+Time 21
+Server 1: (21,19,3) (26,20,6) 
+Server 2: (23,20,5) 
+Server 3: (20,18,2) (25,20,2) (28,21,2) 
+Server 4: (22,19,4) 
+Server 5: (24,20,3) (27,21,6) 
+
+Task 29: arrival time=22, service time=2
+Task 30: arrival time=23, service time=6
+Task 31: arrival time=23, service time=2
+Task 32: arrival time=23, service time=3
+Task 33: arrival time=24, service time=2
+Task 34: arrival time=25, service time=1
+Task 35: arrival time=25, service time=1
+Task 36: arrival time=26, service time=6
+Task 37: arrival time=27, service time=6
+Task 38: arrival time=27, service time=5
+Task 39: arrival time=27, service time=2
+Task 40: arrival time=27, service time=2
+Task 41: arrival time=27, service time=3
+Task 42: arrival time=29, service time=4
+Task 43: arrival time=29, service time=2
+Task 44: arrival time=29, service time=6
+Task 45: arrival time=30, service time=1
+Task 46: arrival time=30, service time=6
+Task 47: arrival time=32, service time=1
+Task 48: arrival time=33, service time=4
+Task 49: arrival time=38, service time=2
+Task 50: arrival time=38, service time=5
+
+Time 22
+Server 1: (21,19,2) (26,20,6) 
+Server 2: (23,20,4) 
+Server 3: (20,18,1) (25,20,2) (28,21,2) 
+Server 4: (22,19,3) (29,22,2) 
+Server 5: (24,20,2) (27,21,6) 
+
+Task 30: arrival time=23, service time=6
+Task 31: arrival time=23, service time=2
+Task 32: arrival time=23, service time=3
+Task 33: arrival time=24, service time=2
+Task 34: arrival time=25, service time=1
+Task 35: arrival time=25, service time=1
+Task 36: arrival time=26, service time=6
+Task 37: arrival time=27, service time=6
+Task 38: arrival time=27, service time=5
+Task 39: arrival time=27, service time=2
+Task 40: arrival time=27, service time=2
+Task 41: arrival time=27, service time=3
+Task 42: arrival time=29, service time=4
+Task 43: arrival time=29, service time=2
+Task 44: arrival time=29, service time=6
+Task 45: arrival time=30, service time=1
+Task 46: arrival time=30, service time=6
+Task 47: arrival time=32, service time=1
+Task 48: arrival time=33, service time=4
+Task 49: arrival time=38, service time=2
+Task 50: arrival time=38, service time=5
+
+Time 23
+Server 1: (21,19,1) (26,20,6) 
+Server 2: (23,20,3) (30,23,6) 
+Server 3: (25,20,2) (28,21,2) (31,23,2) 
+Server 4: (22,19,2) (29,22,2) (32,23,3) 
+Server 5: (24,20,1) (27,21,6) 
+
+Task 33: arrival time=24, service time=2
+Task 34: arrival time=25, service time=1
+Task 35: arrival time=25, service time=1
+Task 36: arrival time=26, service time=6
+Task 37: arrival time=27, service time=6
+Task 38: arrival time=27, service time=5
+Task 39: arrival time=27, service time=2
+Task 40: arrival time=27, service time=2
+Task 41: arrival time=27, service time=3
+Task 42: arrival time=29, service time=4
+Task 43: arrival time=29, service time=2
+Task 44: arrival time=29, service time=6
+Task 45: arrival time=30, service time=1
+Task 46: arrival time=30, service time=6
+Task 47: arrival time=32, service time=1
+Task 48: arrival time=33, service time=4
+Task 49: arrival time=38, service time=2
+Task 50: arrival time=38, service time=5
+
+Time 24
+Server 1: (26,20,6) 
+Server 2: (23,20,2) (30,23,6) 
+Server 3: (25,20,1) (28,21,2) (31,23,2) (33,24,2) 
+Server 4: (22,19,1) (29,22,2) (32,23,3) 
+Server 5: (27,21,6) 
+
+Task 34: arrival time=25, service time=1
+Task 35: arrival time=25, service time=1
+Task 36: arrival time=26, service time=6
+Task 37: arrival time=27, service time=6
+Task 38: arrival time=27, service time=5
+Task 39: arrival time=27, service time=2
+Task 40: arrival time=27, service time=2
+Task 41: arrival time=27, service time=3
+Task 42: arrival time=29, service time=4
+Task 43: arrival time=29, service time=2
+Task 44: arrival time=29, service time=6
+Task 45: arrival time=30, service time=1
+Task 46: arrival time=30, service time=6
+Task 47: arrival time=32, service time=1
+Task 48: arrival time=33, service time=4
+Task 49: arrival time=38, service time=2
+Task 50: arrival time=38, service time=5
+
+Time 25
+Server 1: (26,20,5) (34,25,1) 
+Server 2: (23,20,1) (30,23,6) 
+Server 3: (28,21,2) (31,23,2) (33,24,2) 
+Server 4: (29,22,2) (32,23,3) (35,25,1) 
+Server 5: (27,21,5) 
+
+Task 36: arrival time=26, service time=6
+Task 37: arrival time=27, service time=6
+Task 38: arrival time=27, service time=5
+Task 39: arrival time=27, service time=2
+Task 40: arrival time=27, service time=2
+Task 41: arrival time=27, service time=3
+Task 42: arrival time=29, service time=4
+Task 43: arrival time=29, service time=2
+Task 44: arrival time=29, service time=6
+Task 45: arrival time=30, service time=1
+Task 46: arrival time=30, service time=6
+Task 47: arrival time=32, service time=1
+Task 48: arrival time=33, service time=4
+Task 49: arrival time=38, service time=2
+Task 50: arrival time=38, service time=5
+
+Time 26
+Server 1: (26,20,4) (34,25,1) 
+Server 2: (30,23,6) 
+Server 3: (28,21,1) (31,23,2) (33,24,2) 
+Server 4: (29,22,1) (32,23,3) (35,25,1) 
+Server 5: (27,21,4) (36,26,6) 
+
+Task 37: arrival time=27, service time=6
+Task 38: arrival time=27, service time=5
+Task 39: arrival time=27, service time=2
+Task 40: arrival time=27, service time=2
+Task 41: arrival time=27, service time=3
+Task 42: arrival time=29, service time=4
+Task 43: arrival time=29, service time=2
+Task 44: arrival time=29, service time=6
+Task 45: arrival time=30, service time=1
+Task 46: arrival time=30, service time=6
+Task 47: arrival time=32, service time=1
+Task 48: arrival time=33, service time=4
+Task 49: arrival time=38, service time=2
+Task 50: arrival time=38, service time=5
+
+Time 27
+Server 1: (26,20,3) (34,25,1) (37,27,6) 
+Server 2: (30,23,5) (40,27,2) 
+Server 3: (31,23,2) (33,24,2) (38,27,5) 
+Server 4: (32,23,3) (35,25,1) (39,27,2) (41,27,3) 
+Server 5: (27,21,3) (36,26,6) 
+
+Task 42: arrival time=29, service time=4
+Task 43: arrival time=29, service time=2
+Task 44: arrival time=29, service time=6
+Task 45: arrival time=30, service time=1
+Task 46: arrival time=30, service time=6
+Task 47: arrival time=32, service time=1
+Task 48: arrival time=33, service time=4
+Task 49: arrival time=38, service time=2
+Task 50: arrival time=38, service time=5
+
+Time 28
+Server 1: (26,20,2) (34,25,1) (37,27,6) 
+Server 2: (30,23,4) (40,27,2) 
+Server 3: (31,23,1) (33,24,2) (38,27,5) 
+Server 4: (32,23,2) (35,25,1) (39,27,2) (41,27,3) 
+Server 5: (27,21,2) (36,26,6) 
+
+Task 42: arrival time=29, service time=4
+Task 43: arrival time=29, service time=2
+Task 44: arrival time=29, service time=6
+Task 45: arrival time=30, service time=1
+Task 46: arrival time=30, service time=6
+Task 47: arrival time=32, service time=1
+Task 48: arrival time=33, service time=4
+Task 49: arrival time=38, service time=2
+Task 50: arrival time=38, service time=5
+
+Time 29
+Server 1: (26,20,1) (34,25,1) (37,27,6) 
+Server 2: (30,23,3) (40,27,2) (42,29,4) 
+Server 3: (33,24,2) (38,27,5) (43,29,2) 
+Server 4: (32,23,1) (35,25,1) (39,27,2) (41,27,3) (44,29,6) 
+Server 5: (27,21,1) (36,26,6) 
+
+Task 45: arrival time=30, service time=1
+Task 46: arrival time=30, service time=6
+Task 47: arrival time=32, service time=1
+Task 48: arrival time=33, service time=4
+Task 49: arrival time=38, service time=2
+Task 50: arrival time=38, service time=5
+
+Time 30
+Server 1: (34,25,1) (37,27,6) (46,30,6) 
+Server 2: (30,23,2) (40,27,2) (42,29,4) 
+Server 3: (33,24,1) (38,27,5) (43,29,2) 
+Server 4: (35,25,1) (39,27,2) (41,27,3) (44,29,6) 
+Server 5: (36,26,6) (45,30,1) 
+
+Task 47: arrival time=32, service time=1
+Task 48: arrival time=33, service time=4
+Task 49: arrival time=38, service time=2
+Task 50: arrival time=38, service time=5
+
+Time 31
+Server 1: (37,27,6) (46,30,6) 
+Server 2: (30,23,1) (40,27,2) (42,29,4) 
+Server 3: (38,27,5) (43,29,2) 
+Server 4: (39,27,2) (41,27,3) (44,29,6) 
+Server 5: (36,26,5) (45,30,1) 
+
+Task 47: arrival time=32, service time=1
+Task 48: arrival time=33, service time=4
+Task 49: arrival time=38, service time=2
+Task 50: arrival time=38, service time=5
+
+Time 32
+Server 1: (37,27,5) (46,30,6) 
+Server 2: (40,27,2) (42,29,4) 
+Server 3: (38,27,4) (43,29,2) 
+Server 4: (39,27,1) (41,27,3) (44,29,6) 
+Server 5: (36,26,4) (45,30,1) (47,32,1) 
+
+Task 48: arrival time=33, service time=4
+Task 49: arrival time=38, service time=2
+Task 50: arrival time=38, service time=5
+
+Time 33
+Server 1: (37,27,4) (46,30,6) 
+Server 2: (40,27,1) (42,29,4) (48,33,4) 
+Server 3: (38,27,3) (43,29,2) 
+Server 4: (41,27,3) (44,29,6) 
+Server 5: (36,26,3) (45,30,1) (47,32,1) 
+
+Task 49: arrival time=38, service time=2
+Task 50: arrival time=38, service time=5
+
+Time 34
+Server 1: (37,27,3) (46,30,6) 
+Server 2: (42,29,4) (48,33,4) 
+Server 3: (38,27,2) (43,29,2) 
+Server 4: (41,27,2) (44,29,6) 
+Server 5: (36,26,2) (45,30,1) (47,32,1) 
+
+Task 49: arrival time=38, service time=2
+Task 50: arrival time=38, service time=5
+
+Time 35
+Server 1: (37,27,2) (46,30,6) 
+Server 2: (42,29,3) (48,33,4) 
+Server 3: (38,27,1) (43,29,2) 
+Server 4: (41,27,1) (44,29,6) 
+Server 5: (36,26,1) (45,30,1) (47,32,1) 
+
+Task 49: arrival time=38, service time=2
+Task 50: arrival time=38, service time=5
+
+Time 36
+Server 1: (37,27,1) (46,30,6) 
+Server 2: (42,29,2) (48,33,4) 
+Server 3: (43,29,2) 
+Server 4: (44,29,6) 
+Server 5: (45,30,1) (47,32,1) 
+
+Task 49: arrival time=38, service time=2
+Task 50: arrival time=38, service time=5
+
+Time 37
+Server 1: (46,30,6) 
+Server 2: (42,29,1) (48,33,4) 
+Server 3: (43,29,1) 
+Server 4: (44,29,5) 
+Server 5: (47,32,1) 
+
+Task 49: arrival time=38, service time=2
+Task 50: arrival time=38, service time=5
+
+Time 38
+Server 1: (46,30,5) 
+Server 2: (48,33,4) 
+Server 3: (49,38,2) 
+Server 4: (44,29,4) 
+Server 5: (50,38,5) 
+
+
+Time 39
+Server 1: (46,30,4) 
+Server 2: (48,33,3) 
+Server 3: (49,38,1) 
+Server 4: (44,29,3) 
+Server 5: (50,38,4) 
+
+
+Time 40
+Server 1: (46,30,3) 
+Server 2: (48,33,2) 
+Server 3: closed
+Server 4: (44,29,2) 
+Server 5: (50,38,3) 
+
+
+Time 41
+Server 1: (46,30,2) 
+Server 2: (48,33,1) 
+Server 3: closed
+Server 4: (44,29,1) 
+Server 5: (50,38,2) 
+
+
+Time 42
+Server 1: (46,30,1) 
+Server 2: closed
+Server 3: closed
+Server 4: closed
+Server 5: (50,38,2) 
+
+
+Time 43
+Server 1: closed
+Server 2: closed
+Server 3: closed
+Server 4: closed
+Server 5: closed
+
+
+Time 44
+Server 1: closed
+Server 2: closed
+Server 3: closed
+Server 4: closed
+Server 5: closed
+
+
+Time 45
+Server 1: closed
+Server 2: closed
+Server 3: closed
+Server 4: closed
+Server 5: closed
+
+
+Time 46
+Server 1: closed
+Server 2: closed
+Server 3: closed
+Server 4: closed
+Server 5: closed
+
+
+Time 47
+Server 1: closed
+Server 2: closed
+Server 3: closed
+Server 4: closed
+Server 5: closed
+
+
+Time 48
+Server 1: closed
+Server 2: closed
+Server 3: closed
+Server 4: closed
+Server 5: closed
+
+
+Time 49
+Server 1: closed
+Server 2: closed
+Server 3: closed
+Server 4: closed
+Server 5: closed
+
+
+Time 50
+Server 1: closed
+Server 2: closed
+Server 3: closed
+Server 4: closed
+Server 5: closed
+
+
+Time 51
+Server 1: closed
+Server 2: closed
+Server 3: closed
+Server 4: closed
+Server 5: closed
+
+
+Time 52
+Server 1: closed
+Server 2: closed
+Server 3: closed
+Server 4: closed
+Server 5: closed
+
+
+Time 53
+Server 1: closed
+Server 2: closed
+Server 3: closed
+Server 4: closed
+Server 5: closed
+
+
+Time 54
+Server 1: closed
+Server 2: closed
+Server 3: closed
+Server 4: closed
+Server 5: closed
+
+
+Time 55
+Server 1: closed
+Server 2: closed
+Server 3: closed
+Server 4: closed
+Server 5: closed
+
+
+Time 56
+Server 1: closed
+Server 2: closed
+Server 3: closed
+Server 4: closed
+Server 5: closed
+
+
+Time 57
+Server 1: closed
+Server 2: closed
+Server 3: closed
+Server 4: closed
+Server 5: closed
+
+
+Time 58
+Server 1: closed
+Server 2: closed
+Server 3: closed
+Server 4: closed
+Server 5: closed
+
+
+Time 59
+Server 1: closed
+Server 2: closed
+Server 3: closed
+Server 4: closed
+Server 5: closed
+
